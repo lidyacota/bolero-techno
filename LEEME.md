@@ -39,7 +39,7 @@ El sitio es HTML, CSS y JavaScript puros. No necesita instalar nada ni compilar 
 
 ### 2. Subir los archivos
 1. En el repositorio nuevo, da clic en **uploading an existing file**.
-2. Abre la carpeta `sitio-bolero-techno` en Finder, selecciona **todo su contenido** (no la carpeta en sí, sino lo que está dentro) y arrástralo a la página.
+2. Abre la carpeta `bolero-techno` en Finder, selecciona **todo su contenido** (no la carpeta en sí, sino lo que está dentro) y arrástralo a la página.
 3. Espera a que suban todos los archivos y da clic en **Commit changes**.
 
 > Revisa que en la raíz del repositorio queden `index.html`, `CNAME` y las carpetas `assets`, `poemas` y `acerca`.
