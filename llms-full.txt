@@ -1,0 +1,956 @@
+# Bolero Techno: texto completo / full text
+
+> Obra de literatura digital de Lidya Cota, creadora digital mexicana, que musicaliza con inteligencia artificial 27 poemas del libro "Bolero Techno" del poeta mexicano Abraham Truxillo (Manofalsa, Lima, 2025). La idea, la musicalización, la dirección y el sitio web son de Lidya Cota; los poemas, de Abraham Truxillo. Creada en México (2025–2026) y seleccionada para el Festival El Aleph 2026 de la UNAM.
+>
+> A work of electronic literature by Mexican digital creator Lidya Cota that uses artificial intelligence to set to music 27 poems from the book "Bolero Techno" by Mexican poet Abraham Truxillo (Manofalsa, Lima, 2025). The idea, musicalization, direction, and website are Lidya Cota's; the poems are Abraham Truxillo's. Created in Mexico (2025–2026) and selected for UNAM's El Aleph 2026 Festival.
+
+Obra de literatura digital de Lidya Cota sobre los poemas de Abraham Truxillo, del libro "Bolero Techno" (Manofalsa, Lima, 2025), en el orden de la lista de reproducción. Idea, música y dirección: Lidya Cota. Los espacios iniciales de cada verso reproducen las sangrías del libro. Licencia CC BY-NC-ND 4.0: se pueden citar con atribución, sin fines comerciales y sin modificar.
+
+A work of electronic literature by Lidya Cota based on poems by Abraham Truxillo from the book "Bolero Techno" (Manofalsa, Lima, 2025), in playlist order. Concept, music, and direction: Lidya Cota. Leading spaces reproduce the book's indentation. License CC BY-NC-ND 4.0.
+
+Cómo citar / How to cite: Cota, Lidya, y Abraham Truxillo. 2025–2026. "Bolero Techno" [obra de literatura digital]. Idea, música y dirección: Lidya Cota; poemas: Abraham Truxillo. https://bolerotechno.lidyacota.com/
+
+## 01. FOLK DE LA POBREZA
+
+- Página / Page: https://bolerotechno.lidyacota.com/poemas/folk-de-la-pobreza/
+- Video: https://www.youtube.com/watch?v=d7yMrqNODRA
+- Duración / Duration: 2:43
+- Ficha sonora / Sound sheet (prompt): Spoken word with a raspy, hoarse voice over bluesy mexican urban rock instrumentation, live
+- Libro / Book: "Bolero Techno" (Manofalsa, 2025), pág. 9
+
+```text
+En ocasiones le acontece la pobreza.
+No es mal abrupto como gato que descuelga el techo
+a pelona garra;
+es oruga incandescente.
+Su pobreza cruza arroyos para llegar a él.
+Días antes se anticipa en las cuentas
+de la ciencia monetaria.
+Son tres bolas de impacto común
+en la mesa de billar capitalista.
+
+Sucede con descuido y sin decoro:
+es curso que no abre, contrato que no cierra.
+Su temperamento sacude pulgas de resignación
+cuando la pobreza llega.
+Siente que los muros amenazan,
+los pasos se hacen pequeños en la alcoba,
+sus manos se llenan de pelo:
+quiere abofetearse, trepar por las paredes.
+
+Es entonces que lima sus contrarios:
+descuelga su traje negro de pobreza,
+usa por fuera sus bolsillos de pobreza,
+entona el folk de la pobreza.
+Es un ilusionista sin trucos,
+un amante que calla sin argumentos,
+y frente a las arcas de la nada
+mira su suerte relumbrar.
+```
+
+## 02. ROPERO
+
+- Página / Page: https://bolerotechno.lidyacota.com/poemas/ropero/
+- Video: https://www.youtube.com/watch?v=3bYEp9BGgcQ
+- Duración / Duration: 1:48
+- Ficha sonora / Sound sheet (prompt): Children’s music, Light classical, Waltz, Vaudeville, Cabaret, Toy music, Chamber pop, Vintage theatrical
+- Libro / Book: "Bolero Techno" (Manofalsa, 2025), pág. 11
+
+```text
+Toma el llavero, abuelita,
+enséñame tus discos compactos,
+el Atari que te regalaron a los diez.
+Cuéntame de aquellos días
+cuando ibas a las fiestas.
+Dime si tuviste muchas novias.
+Quiero ver tus muñecas
+heridas,
+las fotos del concierto en Happy World.
+
+Cuéntame de los micos amaestrados
+y del tigre de Bengala.
+Dime si algún día fuiste presa de lebreles.
+Dime si la carne
+siempre se tasó igual.
+```
+
+## 03. SEMBLANZA
+
+- Página / Page: https://bolerotechno.lidyacota.com/poemas/semblanza/
+- Video: https://www.youtube.com/watch?v=u82BnL5hmQ0
+- Duración / Duration: 1:38
+- Ficha sonora / Sound sheet (prompt): Liverpool big band, mexican male voice
+- Libro / Book: "Bolero Techno" (Manofalsa, 2025), pág. 12
+
+```text
+Yo soy la portada de mi libro.
+Soy el número dos de la lista
+de autores emergentes
+de algún lugar.
+Fulano Lenteja,
+el gran crítico y mi amigo,
+opina que las traigo todas.
+
+¡Próximamente en Amazon!
+```
+
+## 04. CANCIÓN VERNAL
+
+- Página / Page: https://bolerotechno.lidyacota.com/poemas/cancion-vernal/
+- Video: https://www.youtube.com/watch?v=fn1Zt8XvrKc
+- Duración / Duration: 2:20
+- Ficha sonora / Sound sheet (prompt): Mexican ranchera, Mariachi, Traditional Mexican, Bolero ranchero, Romantic folk, Regional Mexican, nostalgic
+- Libro / Book: "Bolero Techno" (Manofalsa, 2025), pág. 13
+
+```text
+El muerto es muerto y se pudre.
+No lo maquilles con tinturas,
+no disuadas su pestilencia noble.
+Ahora mismo es un jardín transitorio
+como el que habitó hace unas horas.
+A él llegan febriles las parejas:
+paridera de gusanos.
+No hay fruto más dulce,
+azúcar más cuajada que esa carne.
+
+En la primavera de su huerto
+aún florecen melodías:
+
+“April is the cruelest month”
+—cantan un grillo
+en la boca de la rana.
+```
+
+## 05. MADRIGAL POR LA TV
+
+- Página / Page: https://bolerotechno.lidyacota.com/poemas/madrigal-por-la-tv/
+- Video: https://www.youtube.com/watch?v=Mo1ZPhCnlu4
+- Duración / Duration: 1:14
+- Ficha sonora / Sound sheet (prompt): afro-jazz drill, new orleans trance, mexican male voice
+- Libro / Book: "Bolero Techno" (Manofalsa, 2025), pág. 14
+
+```text
+La televisión es mi exnovia de la infancia.
+La televisión es la maestra de la que me enamoré.
+La televisión es el mejor amigo del niño,
+decía un infame promocional de los 90.
+```
+
+## 06. ESCALA
+
+- Página / Page: https://bolerotechno.lidyacota.com/poemas/escala/
+- Video: https://www.youtube.com/watch?v=2dNshnnikfY
+- Duración / Duration: 2:09
+- Ficha sonora / Sound sheet (prompt): anti-folk big band, illbient cumbia
+- Libro / Book: "Bolero Techno" (Manofalsa, 2025), pág. 15
+
+```text
+Ruedo por el papel pautado.
+Caigo petrificado hacia mí mismo.
+Desde mi pauta hacia mí mismo.
+Y es hora de recomenzar,
+de subir por una escalera al cielo
+en pos del poema:
+
+do,
+      re,
+           mi,
+                 fa,
+                      sol,
+           luna,
+                 estrella,
+para perder el ritmo
+y rodar.
+Like a rolling stone. (bis)
+```
+
+## 07. METEORITO
+
+- Página / Page: https://bolerotechno.lidyacota.com/poemas/meteorito/
+- Video: https://www.youtube.com/watch?v=Hz5LHSrd2D4
+- Duración / Duration: 4:11
+- Ficha sonora / Sound sheet (prompt): Mexican rock, Punk rock, Comedy rock, Garage rock, Latin rock, Satirical music, Alternative rock
+- Libro / Book: "Bolero Techno" (Manofalsa, 2025), págs. 16–17
+
+```text
+Ayer un meteorito arrasó
+no sé qué ciudad extranjera,
+me dijeron.
+
+En mi sueños yo también
+arrasaba una ciudad.
+Todo era panspermia a tu lado.
+Y al despertar me fui siguiendo
+tus caderas
+hasta estrellarnos de nuevo;
+salir expulsados hacia la estratósfera
+dulcemente.
+
+El meteorito cayó por la mañana.
+Debió ser cuando yo pastaba
+entre tus piernas.
+Dicen que el mundo estuvo a punto de salvarse.
+
+Como en este instante,
+entonces alguien habló de guerra.
+
+Si me miras, uno de mis brazos ya es polvo;
+el otro apenas es un retoño torpe.
+Son proporciones espeluznantes y tiernas
+como este espasmo de abrirte el corazón
+y quedarme dentro.
+
+Todo fue una treta, se supo más tarde.
+Se había tratado
+de un ataque atómico directo.
+
+Pero lo que yo quería decirte es otra cosa.
+Son tus muslos nadadora.
+Desanuda mi corbata.
+Amásame en tus piernas,
+un solo centro de gravedad
+en nuestras órbitas.
+
+Vamos a lavar nuestras heridas del comienzo.
+Vamos a fumar,
+vamos a fumarnos, baby,
+yeah, yeah,
+tanto y tanto.
+
+Volutas de humo,
+el vals de la cabaña,
+triste danzón de amor.
+```
+
+## 08. 9MM
+
+- Página / Page: https://bolerotechno.lidyacota.com/poemas/9mm/
+- Video: https://www.youtube.com/watch?v=n7fPMH9OYFU
+- Duración / Duration: 3:05
+- Ficha sonora / Sound sheet (prompt): Corridos tumbados, Regional Mexican, Trap corridos, Sierrefo, Latin trap, Urban Mexican, Acoustic street music
+- Libro / Book: "Bolero Techno" (Manofalsa, 2025), pág. 18
+
+```text
+Todos tenemos un hombre
+que nos apunta a la nuca con su 9 mm.
+La escuadra sostenida en ambas
+manos
+en un bello triángulo,
+el compás firme de las piernas,
+listo para levantarnos la tapa
+de los sesos de un golpe de billar.
+
+Todos tenemos un hombre que nos apunta
+desde dentro el corazón
+mirando un cronómetro secreto.
+
+Todos tenemos un hombre que nos apunta,
+todos tenemos un hombre,
+todos tenemos.
+```
+
+## 09. GOOD BYE
+
+- Página / Page: https://bolerotechno.lidyacota.com/poemas/good-bye/
+- Video: https://www.youtube.com/watch?v=B1D6lwy2i-o
+- Duración / Duration: 2:22
+- Ficha sonora / Sound sheet (prompt): grunge, Koto Drill And Bass, mexican male voice
+- Libro / Book: "Bolero Techno" (Manofalsa, 2025), pág. 19
+
+```text
+Good bye, panadera, good bye.
+Entre estos hornos te extrañaremos
+el rodillo y yo.
+Otros, claro, amasarán.
+Otros.
+Nuestras mieses son recuerdo.
+Así está bien.
+En febrero por siempre, panadera,
+good bye, good bye.
+```
+
+## 10. LYRICS
+
+- Página / Page: https://bolerotechno.lidyacota.com/poemas/lyrics/
+- Video: https://www.youtube.com/watch?v=zXKy-35EYdU
+- Duración / Duration: 2:04
+- Ficha sonora / Sound sheet (prompt): Grime Surf Rock, boogie-woogie, swing
+- Libro / Book: "Bolero Techno" (Manofalsa, 2025), pág. 20
+
+```text
+Estas letras de mis canciones,
+tan huesudas,
+rodilla por todas partes,
+codo y cabezazo
+frontal
+para llevar el ritmo
+a dos tibias.
+
+Tú también
+descalábrate desde el propio tuétano,
+tañe tus caderas,
+de tus huesos astillados
+escribe.
+```
+
+## 11. CÍCLOPE
+
+- Página / Page: https://bolerotechno.lidyacota.com/poemas/ciclope/
+- Video: https://www.youtube.com/watch?v=XnOCZ-JXOjU
+- Duración / Duration: 2:25
+- Ficha sonora / Sound sheet (prompt): Ska punk, Latin ska, Reggae rock, Alternative rock, Argentine rock, Fusion, World music
+- Libro / Book: "Bolero Techno" (Manofalsa, 2025), pág. 21
+
+```text
+Hay mil avispas en el orbe
+de su frente.
+Su cabellera es larga,
+más larga que los ensueños
+de la hierba.
+
+Su lengua esconde todos los mixes
+del Tiempo.
+De ella proviene todo el polen
+de los siglos.
+
+En su oreja izquierda yace
+Ulises enterrado.
+La derecha está reservada
+desde entonces
+para su melodía más mínima.
+
+Quiero decir:
+ningún Rey volvió nunca a Ítaca.
+Penélope no espera
+y ahora tiene una línea de moda.
+Ha gozado en lo íntimo
+de todas las deidades,
+héroes y dioses lo desean
+en secreto.
+Su boca es una gruta
+y mil mineros no bastarán
+para sondear sus cavidades.
+```
+
+## 12. DEPA PUNK
+
+- Página / Page: https://bolerotechno.lidyacota.com/poemas/depa-punk/
+- Video: https://www.youtube.com/watch?v=Dp4PGOO1X70
+- Duración / Duration: 1:14
+- Ficha sonora / Sound sheet (prompt): Punk rock, British punk, Proto-hardcore, Garage rock, Raw rock, Political punk, 70s rock
+- Libro / Book: "Bolero Techno" (Manofalsa, 2025), pág. 23
+
+```text
+Uno se orinó.
+Otro destruyó la mesa.
+Aquel se quedó tres días
+sin cooperar,
+sólo para ser alimentado.
+Uno más vomitó en la alfombra
+y hubo que ponerlo de costado
+para que no se ahogara.
+
+Cierta vez
+llevé a uno a urgencias
+con la frente partida.
+
+Muchos fueron mis amigos y los quise.
+A todos los recibí.
+Ahora los recuerdo a veces
+cuando cuido a mi bebé.
+```
+
+## 13. ARRITMIA
+
+- Página / Page: https://bolerotechno.lidyacota.com/poemas/arritmia/
+- Video: https://www.youtube.com/watch?v=KKXsHpFGkrA
+- Duración / Duration: 2:02
+- Ficha sonora / Sound sheet (prompt): algorave, Voice should recite with expressive rhythm
+- Libro / Book: "Bolero Techno" (Manofalsa, 2025), pág. 24
+
+```text
+Él murió.
+El que era murió.
+No lo busques en él.
+Acaso recuérdalo
+con él
+si él y tú
+aún andan.
+
+Él ahora viste otro, habla otro, es otro.
+El que era murió. No lo sigas
+en él.
+Acaso recuérdalo
+como era.
+```
+
+## 14. BALADA DE OTTO LILIENTHAL
+
+- Página / Page: https://bolerotechno.lidyacota.com/poemas/balada-de-otto-lilienthal/
+- Video: https://www.youtube.com/watch?v=u7vaJKdwohk
+- Duración / Duration: 3:55
+- Ficha sonora / Sound sheet (prompt): Ambient Noise Wall Chanson, theatrical spoken word, female voice
+- Libro / Book: "Bolero Techno" (Manofalsa, 2025), págs. 25–26
+
+```text
+Hombre pájaro blande sus alas;
+recae tácito de una colina,
+sus modales berlineses,
+su bigote.
+
+Cuervo en daguerrotipo,
+antes solía desmenuzar las bicicletas.
+Ahora
+sacude su levita viento abajo,
+se impulsa decidido,
+se finge sastre de las aves.
+
+Sabemos que nació con un nido en el cerebro.
+Su cabeza incuba pensamientos por la noche
+que al amanecer estallan en esquirlas neuronales.
+Por eso, sus instintos lo llevan al cielo
+del
+Reino
+de
+          Prusia.
+
+Antes de lograrlo,
+se envolvió noches enteras en papel de China.
+En sueños esforzó remos de bambú,
+salvó mares de nubes en picada.
+
+Ideas empolladas lo habían condenado
+a la fama del orate.
+Corriendo de avestruz dormida,
+soñaba con el magnífico aparato
+que lo elevó de niño,
+pájaro hombre rememorando las cometas.
+
+Ahora sus alas comienzan a darle algo de prestigio,
+de reojo lo miran las muchachas,
+le permiten refugiarse bajo sus quitasoles.
+
+Yo lo recuerdo con claridad en una película de Chaplin,
+loma abajo,
+justo antes de que el viento lo sostenga.
+
+Dédalo,
+Ícaro.
+Pájaro de linaje en pluma
+no tardará en desbarrancarse.
+
+Ya mañana serán de notar
+las legiones nuevas de aeronautas
+vistiendo corsés de ángeles.
+
+Afanarán sus mecanismos,
+dirigirán el timón hacia las nubes.
+Saltarán
+de los puentes,
+de las columnas,
+de las cornisas,
+de las plataformas espaciales.
+
+Una gravedad fabulosa
+los arroja al cielo.
+```
+
+## 15. NANA DEL QUERATOCONO
+
+- Página / Page: https://bolerotechno.lidyacota.com/poemas/nana-del-queratocono/
+- Video: https://www.youtube.com/watch?v=NfYpGqA1riM
+- Duración / Duration: 3:05
+- Ficha sonora / Sound sheet (prompt): harpischord klezmer
+- Libro / Book: "Bolero Techno" (Manofalsa, 2025), pág. 27
+
+```text
+Cuando era niño, vivía un conejo en la luna.
+Creo que estaba de cabeza, pero no sé bien.
+Las estrellas eran papelitos blancos
+pegados con saliva sobre el fondo negro.
+
+Ahora ya no hay nada,
+sólo desiertos y cráteres plateados,
+dunas de arena helada,
+y mi ojo se llena de un aire extraño
+que lo hincha desde adentro,
+lo alarga hacia la luz como un suicida.
+
+O quizá sea la córnea disforme
+el espacio de los socavones lunares
+y la acechante claridad.
+```
+
+## 16. LUNA ORQUESTA
+
+- Página / Page: https://bolerotechno.lidyacota.com/poemas/luna-orquesta/
+- Video: https://www.youtube.com/watch?v=LbkAfnC6TVM
+- Duración / Duration: 2:19
+- Ficha sonora / Sound sheet (prompt): Mambo, 50s Instrumental Latin, perez-prado orquesta
+- Libro / Book: "Bolero Techno" (Manofalsa, 2025), pág. 28
+
+```text
+La orquesta quiere más luna.
+Una luna llena más seductora,
+más brillante,
+con mejores disfraces
+y una piel resplandeciente.
+Quiere
+una luna con diferente tatuaje,
+una luna con mariposa.
+La orquesta quiere un hada
+más ovalada,
+con otro tatuaje.
+Una mariposa de alas
+lúbricas.
+No quiere el conejo de Playboy,
+no quiere una luna espía.
+```
+
+## 17. ARTE POÉTICA
+
+- Página / Page: https://bolerotechno.lidyacota.com/poemas/arte-poetica/
+- Video: https://www.youtube.com/watch?v=hQ51s6czIBk
+- Duración / Duration: 2:20
+- Ficha sonora / Sound sheet (prompt): bossa nova, Sitar Blues
+- Libro / Book: "Bolero Techno" (Manofalsa, 2025), pág. 29
+
+```text
+Salir de noche a encontrarse,
+a que nos encuentren,
+para recibir el beso arrollador
+de un auto,
+estrella en la mejilla,
+u orquídeas en ojos de muchacha.
+Para evadir
+las estancias monocordes,
+los colores flatulentos del cuarto.
+
+Poner a ritmo las muñecas,
+llegar con buen tiempo a los saludos,
+con ideas puntuales al sombrero
+y la respiración
+en orden de flauta.
+
+Perseguir la línea de la calle,
+la indicación del horizonte.
+Doblar la esquina
+en dos mitades.
+Irse de boca dando el pecho,
+responder el quién vive a quien te encuentre.
+Dar los buenos días
+a quien te encuentre.
+Darle la palabra
+a quien te encuentre.
+```
+
+## 18. BOLERO TECHNO
+
+- Página / Page: https://bolerotechno.lidyacota.com/poemas/bolero-techno/
+- Video: https://www.youtube.com/watch?v=4qAMI3cGRBQ
+- Duración / Duration: 2:07
+- Ficha sonora / Sound sheet (prompt): Mexican bolero, Latin waltz, Romantic ballad, Traditional Latin, Vintage pop, Lounge bolero, Serenade style
+- Libro / Book: "Bolero Techno" (Manofalsa, 2025), pág. 30
+
+```text
+Cada noche reverbera
+en la curva precisa del instante,
+mientras la luna sustituye
+los rojos del semáforo,
+en los viñedos de neón
+se enraciman latidos
+al compás las pulsaciones
+que trizan los cristales de los autos:
+se respira el sopor purpura,
+se actualiza
+la danza en los lagares,
+la embriaguez furtiva
+en los ojos de las vestes
+que recuerda, que recrea,
+los raptos etílicos
+sobre la mesa
+cuando la música
+vestida de amapolas
+redondea los pensamientos
+para evitar todas las preguntas
+a la vez que van quedando fuera
+los que ignoran
+cómo abrir los belfos orificios
+y aguzar la cornamenta de la lengua
+mientras nadan desnudas
+en su néctar de fotones
+las nereidas.
+```
+
+## 19. RELOJ DESPERTADOR
+
+- Página / Page: https://bolerotechno.lidyacota.com/poemas/reloj-despertador/
+- Video: https://www.youtube.com/watch?v=zTI0ELk8qyc
+- Duración / Duration: 2:03
+- Ficha sonora / Sound sheet (prompt): Latin alternative, Latin hip hop, Urban fusion, Reggaeton (early work), Latin folk, World music, Protest rap, Experimental pop
+- Libro / Book: "Bolero Techno" (Manofalsa, 2025), pág. 31
+
+```text
+Calcetazo a cara irremediable,
+tumbo entre tanta carpa
+cola compulsiva.
+Sobre las crestas de las calles,
+peces voladores.
+
+Cada ejecutivo decidido
+aleteando su portafolio,
+usando la corbata como remo para abrirse
+paso entre
+los caparazones de los autos.
+
+Pero díganme
+si este derrotero no es un tanto
+impugnable.
+Tome en cuenta las tormentas del marcado,
+a sotavento y barlovento
+se desinflan las montañas,
+la tortuga tortura a sus semejantes,
+el calamar calumnia,
+el pez persigue los tesoros
+robados de Barba Azul.
+```
+
+## 20. LIMÓN PARTIDO
+
+- Página / Page: https://bolerotechno.lidyacota.com/poemas/limon-partido/
+- Video: https://www.youtube.com/watch?v=fZdVkruVa4I
+- Duración / Duration: 2:38
+- Ficha sonora / Sound sheet (prompt): Indie rock, Alternative rock, Synthpop, Post-punk revival, Spanish pop rock, Art rock, Electro indie
+- Libro / Book: "Bolero Techno" (Manofalsa, 2025), pág. 32
+
+```text
+Si partimos en dos un limón,
+ambas mitades toman conciencia
+de sí mismas,
+en el cuchillo se reflejan
+y luego se miran
+con desconfianza
+una a otra.
+
+Queda sembrada la semilla
+de la duda.
+Se sienten irreconciliables,
+fruto de un engaño.
+De este malentendido
+sigue una amarga separación.
+
+Cortantes
+se marchan sin despedirse.
+Buscan en otro lugar
+el medio limón.
+
+Su verdadera tragedia es,
+desde luego,
+que nosotros los consumimos partidos.
+```
+
+## 21. BARDA
+
+- Página / Page: https://bolerotechno.lidyacota.com/poemas/barda/
+- Video: https://www.youtube.com/watch?v=yLyh13mpdao
+- Duración / Duration: 1:36
+- Ficha sonora / Sound sheet (prompt): Slam poetry
+- Libro / Book: "Bolero Techno" (Manofalsa, 2025), pág. 33
+
+```text
+¡Un, dos, tres, por todos mis amigos!
+Al que le clavaron una bayoneta en la espalda
+como a espantapájaros de utilería
+y murió con otros.
+Palomas reunidas en la plaza
+listas para cagar el Palacio
+             de Defensa.
+
+Por Alberta,
+desvanecida entre las garras
+del águila francotiradora
+bajo reflectores de humo
+mientras el miedo corría a los hospitales
+en Jeeps y furgonetas.
+
+Por los que arrojaron al mar
+en panza de tiburones,
+pero nadie sospechó
+que los devolvería la corriente
+como a madero de balsa.
+
+Y que no se salven
+los que dictan la agenda del patíbulo,
+tienen trato preferencial en los burdeles.
+Saludan desde la ventanilla del avión
+como Jackie O.
+```
+
+## 22. ALTA TRAICIÓN NEOLIBERAL
+
+- Página / Page: https://bolerotechno.lidyacota.com/poemas/alta-traicion-neoliberal/
+- Video: https://www.youtube.com/watch?v=a8oeol9amxk
+- Duración / Duration: 0:27
+- Ficha sonora / Sound sheet (prompt): East Coast hip hop, Boom bap, New York rap, Underground rap, Street poetry, Hardcore rap
+- Libro / Book: "Bolero Techno" (Manofalsa, 2025), pág. 34
+
+```text
+No amo mi patria.
+Su fulgor abstracto
+es para los ilusos.
+Pero (aunque suene mal)
+daría la vida
+de mis paisanos
+por un puerto,
+un bosque de pinos,
+dos montañas llenas de oro
+y tres o cuatro ríos
+que privatizar.
+
+* Reescritura del poema “Alta traición” de José Emilio Pacheco.
+```
+
+## 23. BACANAL
+
+- Página / Page: https://bolerotechno.lidyacota.com/poemas/bacanal/
+- Video: https://www.youtube.com/watch?v=aI5hohUm_QY
+- Duración / Duration: 2:46
+- Ficha sonora / Sound sheet (prompt): Salsa dura, Latin salsa, Afro-Caribbean, Tropical music, New York salsa, Urban salsa, 80s Latin dance
+- Libro / Book: "Bolero Techno" (Manofalsa, 2025), pág. 35
+
+```text
+Otra vez el alcohol lo abandona a la mañana,
+ayer fue mujer de labios candorosamente azules
+que lo hizo príncipe de fuego a rastras.
+Recuerda haber sido el alma de la noche,
+pero quién destrozó finalmente las botellas,
+dónde durmieron los grillos alegres.
+
+Esta resaca no es adiós avinagrado,
+no son las últimas palabras de ella
+guardadas por ahí.
+Ella lo ama y no podrá mentirlo,
+las mangas de su traje aún guardan su olor,
+las mangas de su traje no son celda suficiente.
+
+Está resaca no es el reclamo ajeno de su madre,
+ni la bofetada de su padre.
+Su hermana no está ahí de flor incondicional.
+
+Ayer fue coronado en los brazos del banquete.
+Sus copas besaban la sonrisa de todos los invitados.
+Es el mejor anfitrión del mundo.
+El mejor anfitrión en casa de sus padres;
+en lugares afamados y las catacumbas.
+
+Sus mejores deseos los reciben ellos.
+Lo recuerdan en los pechos de la noche.
+Puede ofender a todo el mundo sin lastimarlo.
+Esta resaca no es de recién nacido.
+Su lengua se clava
+siempre con suavidad.
+```
+
+## 24. RÉQUIEM DEL AHOGADO
+
+- Página / Page: https://bolerotechno.lidyacota.com/poemas/requiem-del-ahogado/
+- Video: https://www.youtube.com/watch?v=5kOcklsaPrE
+- Duración / Duration: 2:22
+- Ficha sonora / Sound sheet (prompt): Isthmus folk music, Zapotec traditional music, dramatic, lament
+- Libro / Book: "Bolero Techno" (Manofalsa, 2025), pág. 36
+
+```text
+Qué triste nos miraba la boca del ahogado
+por los labios oscuros que encandiló el río.
+Quienes lo vieron aún vivo afirman
+que el zumbido en sus pupilas era ensordecedor.
+La corriente acalló sus sienes
+a borbotones;
+el lodo pobló las entrañas,
+el agua anegó los huesos.
+
+Estuvo tendido un rato,
+escurriéndose como una pila de juncos.
+
+Ahora,
+de las yemas de sus dedos
+sólo quedan diez guijarros.
+De sus axilas
+sólo restan dos panales.
+```
+
+## 25. BALADA DE PETER PAN, EL DESEOSO
+
+- Página / Page: https://bolerotechno.lidyacota.com/poemas/balada-de-peter-pan-el-deseoso/
+- Video: https://www.youtube.com/watch?v=fBhiRiTTXeI
+- Duración / Duration: 2:23
+- Ficha sonora / Sound sheet (prompt): Urban rap, dark hip hop, ukulele
+- Libro / Book: "Bolero Techno" (Manofalsa, 2025), págs. 38–39
+
+```text
+Deseoso es aquel que huye de su madre
+y se pone a perseguir sombras en las habitaciones
+de las niñas más bellas de Londres.
+Así da de bruces con un fantasma propio,
+encuentra las hebras de una ternura colapsada.
+
+Deseoso es aquel
+que se arranca a vivir sobre los árboles
+y evade la infancia hipócrita.
+Luego vaga
+con el tímpano perpetuamente azorado,
+con el cielo aguijoneando sus mejillas
+y funda una pandilla de gorriones
+entre los más huérfanos, los más desprotegidos.
+
+Con todo,
+es de notar que su sagacidad
+nunca será completa,
+así lo muestra la huella suplantada en los suburbios
+donde no pudieron ejercer pillaje alguno con sus madres
+aunque el hurto nunca fuera ajeno
+a los sucedidos que se comentan diariamente.
+
+Sin embargo, lo importante nunca fue
+o secundario.
+Y desde entonces no pudieron
+acercarse más a sus hogares.
+Hubo un naufragio en cada derrotero,
+las marineras volvieron al armario.
+
+Por eso ahora,
+los jóvenes más jóvenes del siglo
+enarbolan garfios parricidas,
+injurian y desprecian iracundos;
+visten como locos
+—emancipados al fin—
+y no preguntan por la isla estelar que les juraron
+ni tienen felices pensamientos.
+Niños perdidos, cantan.
+```
+
+## 26. DUB SURFING
+
+- Página / Page: https://bolerotechno.lidyacota.com/poemas/dub-surfing/
+- Video: https://www.youtube.com/watch?v=UOF4wdIoTgM
+- Duración / Duration: 3:32
+- Ficha sonora / Sound sheet (prompt): Dancehall dub, Reggae fusion, Dub poetry, Roots reggae, Female vocal, Sound system style, 80s dancehall, Jamaican dub
+- Libro / Book: "Bolero Techno" (Manofalsa, 2025), págs. 40–42
+
+```text
+Revuélcanos, ola,
+distiéndenos en la espuma de tu baba,
+gran perra maternal.
+Sacude hasta dejar los temores dislocados,
+hasta lavar en tu risa oceánica las entrañas.
+
+Ya quiere absorber algo de sal el pensamiento,
+las ideas toman algo de coral,
+de velero.
+
+Líbranos
+mientras nos deslizamos entre tus piernas como críos.
+Eva real,
+estás a punto de quebrarnos la espina,
+de parirnos,
+nueva descendencia de Tritón,
+de partir nuestra tabla en dos.
+
+No logro ver.
+Ya no logro
+disuadirme de tus argumentos,
+de tus anémonas manos.
+
+Arrójanos,
+como un leño de balsa hasta la orilla,
+al abrazo de la Venus.
+Ahora queremos sanar en sus caireles.
+Su beso solar no es como el tuyo.
+Modelas tus rompientes en esquirlas,
+tus besos en esquirlas.
+
+Pero ella es más clemente y tiene una corporeidad que tú
+no posees.
+
+Es
+
+f
+a
+r
+o
+de nuestra playa.
+
+Revuélcanos
+si no logramos evadirnos de las garras
+de ese dios ciego.
+Danos vueltas hasta orinar el traje,
+gesticula en torno nuestro.
+
+Nunca experimenté arrobo más grácil.
+No salgo
+del vaho del infierno,
+del vaho de Dios.
+No salgo
+del vaho del infierno,
+del vaho de Dios.
+No salgo,
+de ti no salgo.
+
+Mar telúrico,
+mar calcáreo,
+mar martillo,
+útero de carcajadas,
+chapaleo de grandes lunáticos.
+
+Vamos a quitarte tu liguero,
+mar hembra, mar macho,
+mar andrógino
+de valvas sumergidas
+y mástiles sin tiempo.
+```
+
+## 27. HITS
+
+- Página / Page: https://bolerotechno.lidyacota.com/poemas/hits/
+- Video: https://www.youtube.com/watch?v=AQABgAaOMDY
+- Duración / Duration: 2:59
+- Ficha sonora / Sound sheet (prompt): Latin electropop, Synthpop, Electroclash, 2000s Mexican pop, Dance-punk, Dreamy club pop, Retro electronic, Playful and romantic, Two female voices, Spoken-sung delivery, Sweet and ironic tone, Melodic with flat phrasing, Quirky emotional expression
+- Libro / Book: "Bolero Techno" (Manofalsa, 2025), págs. 7–8
+
+```text
+Bonitas las canciones
+de toda época y todo lugar,
+canciones de amor
+y romancero:
+alrededor de la hoguera,
+en MTV.
+
+En todas partes
+una joven tiene el deseo lleno de canciones:
+en las provincias
+un arrebato de tonada recurrente.
+Para la guerra o ternura,
+durante el baño:
+en AM o FM,
+en MP3.
+
+Nuestra vida
+está rodeada por canciones,
+el mundo
+formado por canciones.
+
+Que nadie las juzgue,
+su naturaleza es musical.
+He aquí que las canciones son buenas.
+Para la distancia y alegría,
+en baile o fuga.
+
+She loves you, yeah, yeah, yeah…
+
+Otras artes también quisieran
+llegar tan adentro,
+pasearse libremente
+por los pasillos,
+dejar el alma
+llena de canciones.
+```

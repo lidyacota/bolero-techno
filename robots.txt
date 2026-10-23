@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+
+# Buscadores y asistentes de IA son bienvenidos a leer la obra completa.
+# Resumen para modelos de lenguaje: https://bolerotechno.lidyacota.com/llms.txt
+# Texto completo de los poemas: https://bolerotechno.lidyacota.com/llms-full.txt
+User-agent: GPTBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://bolerotechno.lidyacota.com/sitemap.xml
