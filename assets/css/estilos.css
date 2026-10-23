@@ -36,7 +36,8 @@
   --crema: #e4ead6;
   --luz: #f3f6e6;
   --ambar: #c9a36b;
-  --rojo: #e8364f;
+  --rojo: #c6ef4e;   /* acento: verde limón (el nombre de la variable se conserva) */
+  --oliva: #7c9a1a;  /* limón oscuro para fondos claros (hojas crema) */
 
   --texto: #e9eedf;
   --texto-suave: rgba(233, 238, 223, .68);
@@ -277,7 +278,7 @@ body.portada { height: 100vh; height: 100svh; overflow: hidden; }
   content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 30%;
   background: linear-gradient(to bottom, transparent, var(--papel) 82%);
 }
-.hoja[data-tono="0"] { --papel: #ecefe0; --tinta: #1b2221; --acento: var(--rojo); }
+.hoja[data-tono="0"] { --papel: #ecefe0; --tinta: #1b2221; --acento: var(--oliva); }
 .hoja[data-tono="1"] { --papel: #b9cdc6; --tinta: #152020; --acento: #1b2221; }
 .hoja[data-tono="2"] { --papel: #2a3533; --tinta: #e4ead6; --acento: var(--ambar); }
 .hoja[data-tono="3"] { --papel: #6f8783; --tinta: #f3f6e6; --acento: #f3f6e6; }
@@ -382,7 +383,7 @@ body.en-poema .intro > * { pointer-events: none; }
 }
 .boton:hover { background: var(--luz); color: var(--negro); border-color: var(--luz); }
 .boton svg { width: 16px; height: 16px; flex: none; }
-.boton-rojo { background: var(--rojo); border-color: var(--rojo); }
+.boton-rojo { background: var(--rojo); border-color: var(--rojo); color: var(--negro); }
 .boton-rojo:hover { background: var(--luz); border-color: var(--luz); }
 
 /* ---- Portada: ficha del poema activo ---- */
@@ -577,7 +578,7 @@ main.contenido {
 }
 .poema-hoja h2.cursiva { font-style: italic; }
 .poema-hoja h2 sup { font-size: .55em; font-weight: 400; }
-.poema-hoja .hoja-barra { width: 48px; height: 2px; background: var(--rojo); margin: 0 0 2rem; }
+.poema-hoja .hoja-barra { width: 48px; height: 2px; background: var(--oliva); margin: 0 0 2rem; }
 .poema-hoja .poema { font-size: clamp(1rem, 1.9vw, 1.16rem); line-height: 1.75; }
 .nota-pie {
   margin-top: 2.6rem; padding-top: 1rem;
@@ -853,3 +854,20 @@ body.interior { padding-bottom: 86px; }
 .ficha-sonora .firma-prompt a { color: var(--crema); text-decoration: none; }
 .ficha-sonora .firma-prompt a:hover { color: var(--luz); }
 .persona h3 { margin-top: .6rem; }
+
+/* =========================================================
+   Detalles en verde limón (opción C)
+   ========================================================= */
+.video-play { background: rgba(198, 239, 78, .94); }
+.video-play svg { color: var(--negro); }
+.hoja.activa .hoja-papel {
+  box-shadow:
+    0 0 0 2px var(--rojo),
+    0 0 28px -6px rgba(198, 239, 78, .45),
+    0 50px 90px -25px rgba(0, 0, 0, .8);
+}
+.ficha-sonora, .persona { border-color: rgba(198, 239, 78, .55); }
+.encabezado.con-fondo { border-bottom-color: rgba(198, 239, 78, .7); }
+.pista-fija { border-top-color: rgba(198, 239, 78, .6); }
+.menu .idioma a { border-color: var(--rojo); }
+.menu .idioma a:hover { background: var(--rojo); color: var(--negro); }
