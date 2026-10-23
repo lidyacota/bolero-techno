@@ -114,7 +114,9 @@ img { max-width: 100%; display: block; }
 }
 .encabezado > * { pointer-events: auto; }
 .encabezado.con-fondo {
-  background: linear-gradient(to bottom, rgba(12, 14, 14, .92), rgba(12, 14, 14, 0));
+  background: var(--negro);
+  border-bottom: 1px solid var(--linea);
+  padding-top: 16px; padding-bottom: 16px;
 }
 
 .logo {
@@ -788,3 +790,48 @@ main.contenido {
 
 /* Direcciones de los sitios personales: en minúsculas, tal como se escriben */
 .persona .enlace-url { text-transform: none; letter-spacing: .04em; font-size: .86rem; }
+
+/* ---- Barra de poemas siempre disponible (páginas interiores) ---- */
+body.interior { padding-bottom: 86px; }
+.pista-fija {
+  left: 0; right: 0; bottom: 0;
+  padding: 14px var(--gutter) 16px;
+  background: linear-gradient(to top, rgba(12, 14, 14, .97) 55%, rgba(12, 14, 14, .82));
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-top: 1px solid var(--linea);
+  z-index: 40;
+}
+.pista-fija .pista-numeros { padding-bottom: 10px; }
+.pista-numeros a {
+  display: inline-block;
+  text-decoration: none;
+  font: 500 .7rem/1 var(--fuente);
+  letter-spacing: .06em;
+  color: var(--texto-tenue);
+  padding: 8px 3px;
+  min-width: 26px;
+  text-align: center;
+  transition: color .3s;
+}
+.pista-numeros a:hover { color: var(--luz); }
+.pista-numeros a[aria-current="true"] { color: var(--luz); font-weight: 700; }
+.pista-fija .pista-flecha { text-decoration: none; }
+.pista-flecha.inactiva { opacity: .25; }
+@media (max-width: 900px) {
+  body.interior { padding-bottom: 70px; }
+  .pista-fija { padding: 10px 12px 12px; }
+}
+
+/* ---- Acerca de: cierre y firma ---- */
+.texto-largo p.esposos { margin-top: 2.2em; color: var(--luz); }
+.texto-largo p.firma {
+  margin-top: 1.4em;
+  text-align: right;
+  font-style: italic;
+  font-weight: 300;
+  color: var(--crema);
+}
+.texto-largo p.firma::before { content: "— "; }
+.persona h3 { margin-top: 0; }
+.pie .pie-creditos a { letter-spacing: .04em; }

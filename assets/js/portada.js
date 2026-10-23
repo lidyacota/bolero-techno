@@ -112,7 +112,7 @@
       ficha.titulo.textContent = d.titulo;
       ficha.titulo.classList.toggle("cursiva", !!d.cursiva);
       ficha.dur.textContent = d.dur;
-      ficha.pags.textContent = d.pags;
+      if (ficha.pags) ficha.pags.textContent = d.pags || "";
       ficha.gen.textContent = d.generos;
       ficha.ir.href = d.url;
       ficha.ir.setAttribute("aria-label", "Ver y escuchar " + d.titulo);

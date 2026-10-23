@@ -34,3 +34,13 @@
   var video = document.querySelector(".fondo-video video");
   if (video && window.matchMedia("(prefers-reduced-motion: reduce)").matches) video.pause();
 })();
+
+/* Centra el poema actual en la barra de números (útil en celular) */
+(function () {
+  var actual = document.querySelector(".pista-fija [aria-current='true']");
+  if (!actual) return;
+  var lista = actual.closest(".pista-numeros");
+  if (lista && lista.scrollWidth > lista.clientWidth) {
+    lista.scrollLeft = actual.parentNode.offsetLeft - lista.clientWidth / 2;
+  }
+})();

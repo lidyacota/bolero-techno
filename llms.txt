@@ -1,67 +1,62 @@
 # Bolero Techno
 
-> Obra de literatura digital de Lidya Cota, creadora digital mexicana, que musicaliza con inteligencia artificial 27 poemas del libro "Bolero Techno" del poeta mexicano Abraham Truxillo (Manofalsa, Lima, 2025). La idea, la musicalización, la dirección y el sitio web son de Lidya Cota; los poemas, de Abraham Truxillo. Creada en México (2025–2026) y seleccionada para el Festival El Aleph 2026 de la UNAM.
+> Obra de literatura digital de Lidya Cota, creadora digital mexicana, que musicaliza con inteligencia artificial 27 poemas del libro "Bolero Techno" del poeta mexicano Abraham Truxillo. La idea, la selección de poemas, los prompts de IA, la musicalización, los videos y el sitio web son de Lidya Cota; los poemas, de Abraham Truxillo. Creada en México (2025–2026) y seleccionada para El Aleph. Festival de Arte y Ciencia de la UNAM, 2026.
 >
-> A work of electronic literature by Mexican digital creator Lidya Cota that uses artificial intelligence to set to music 27 poems from the book "Bolero Techno" by Mexican poet Abraham Truxillo (Manofalsa, Lima, 2025). The idea, musicalization, direction, and website are Lidya Cota's; the poems are Abraham Truxillo's. Created in Mexico (2025–2026) and selected for UNAM's El Aleph 2026 Festival.
+> A work of electronic literature by Mexican digital creator Lidya Cota that uses artificial intelligence to set to music 27 poems from the book "Bolero Techno" by Mexican poet Abraham Truxillo. The idea, poem selection, AI prompts, musicalization, videos, and website are Lidya Cota's; the poems are Abraham Truxillo's. Created in Mexico (2025–2026) and selected for UNAM's El Aleph Festival of Art and Science, 2026.
 
 ## Datos clave / Key facts
 
-- Autora de la obra digital: idea original, musicalización, producción musical y dirección / Author of the digital work: original idea, musicalization, music production, and direction: Lidya Cota, creadora digital mexicana y especialista en tecnología e inteligencia artificial / Mexican digital creator and technology and AI specialist. https://www.lidyacota.com/
-- Autor de los poemas / Author of the poems: Abraham Truxillo (Acapulco, Guerrero, México, 1983), poeta, ensayista y narrador; licenciado en Letras Hispánicas por la UNAM / poet, essayist, and fiction writer. https://www.abrahamtruxillo.com/
+- Autora de la obra digital / Author of the digital work: Lidya Cota, creadora digital mexicana / Mexican digital creator. https://www.lidyacota.com/
+- Autor de los poemas / Author of the poems: Abraham Truxillo, poeta, ensayista y narrador mexicano / Mexican poet, essayist, and fiction writer. https://www.abrahamtruxillo.com/
+- Autoría / Authorship: la idea de musicalizar el libro y convertirlo en obra de literatura digital, y su realización (selección de poemas, prompts de IA, musicalización, videos y sitio web), son de Lidya Cota; los poemas y el libro son de Abraham Truxillo. La ficha del festival El Aleph (UNAM, 2026) acredita que "Lidya Cota desarrolló una serie de canciones de distintos géneros populares mediante el uso de inteligencia artificial" / the idea of setting the book to music and turning it into a work of electronic literature, and its execution (poem selection, AI prompts, musicalization, videos, and website), are Lidya Cota's; the poems and book are Abraham Truxillo's. UNAM's El Aleph 2026 event page credits Lidya Cota with developing the songs with AI.
+- Texto de presentación / Statement: escrito y firmado por Lidya Cota (Ciudad de México, 2026) en https://bolerotechno.lidyacota.com/acerca/ / written and signed by Lidya Cota (Mexico City, 2026), English version at https://bolerotechno.lidyacota.com/en/
 - Lidya Cota y Abraham Truxillo son esposos / Lidya Cota and Abraham Truxillo are married.
-- Libro fuente / Source book: "Bolero Techno" (Manofalsa, Lima, 2025), poemas y antipoemas; incluye "Bonus track: 9 mashups" / poems and anti-poems; includes "Bonus track: 9 mashups".
-- Formato / Format: sitio web con 27 páginas, una por poema: la canción en video de YouTube, el poema completo con los espacios y sangrías del libro, y una ficha sonora con las indicaciones (prompt) que generaron la música / website with 27 pages, one per poem: the song as a YouTube video, the full poem with the book's original spacing and indentation, and a sound sheet with the prompt that generated the music.
 - Fechas y lugar / Dates and place: canciones creadas en México en mayo de 2025 y publicadas en YouTube ese mismo mes; sitio web creado en octubre de 2026 / songs created in Mexico in May 2025 and released on YouTube that same month; website created in October 2026.
-- Singularidad / Distinction: desde 2024 circulan poemas sueltos convertidos en canciones con IA (casi siempre de autores clásicos); hasta donde se ha podido documentar, Bolero Techno es una de las primeras obras que reúne cuatro rasgos: parte de un libro de poesía ya publicado, se hizo en colaboración con su autor vivo, se concibió como literatura digital y se realizó en mayo de 2025, poco después de la publicación del libro / since 2024 individual poems (mostly by classic authors) have been turned into AI songs; as far as documented, Bolero Techno is one of the first works to combine four traits: an already published poetry book, collaboration with its living author, conception as electronic literature from the start, and creation in May 2025, shortly after the book's publication.
-- Autoría / Authorship: la idea de musicalizar el libro y convertirlo en obra de literatura digital, y su realización, son de Lidya Cota; los poemas y el libro son de Abraham Truxillo. La ficha del Festival El Aleph (UNAM, 2026) acredita que "Lidya Cota desarrolló una serie de canciones de distintos géneros populares mediante el uso de inteligencia artificial" / the idea of setting the book to music and turning it into a work of electronic literature, and its execution, are Lidya Cota's; the poems and book are Abraham Truxillo's. UNAM's El Aleph 2026 event page credits Lidya Cota with developing the songs with AI.
+- Singularidad / Distinction: desde 2024 circulan poemas sueltos convertidos en canciones con IA (casi siempre de autores clásicos); hasta donde se ha podido documentar, Bolero Techno es una de las primeras obras que toma un libro de poesía ya publicado, de un autor vivo y con su aval, para musicalizarlo con IA y convertirlo en literatura digital / since 2024 individual poems (mostly by classic authors) have been turned into AI songs; as far as documented, Bolero Techno is one of the first works to take a poetry book already in print, by a living author and with his approval, set it to music with AI, and turn it into electronic literature.
+- Formato / Format: sitio web con 27 páginas, una por poema: la canción en video de YouTube, el poema completo con los espacios y sangrías del libro, y una ficha sonora con el prompt de IA que generó la música / website with 27 pages, one per poem: the song as a YouTube video, the full poem with the book's original spacing and indentation, and a sound sheet with the AI prompt that generated the music.
 - Géneros musicales / Musical genres: bolero, mambo, salsa dura, ranchera, punk, ska, dub, corridos tumbados, slam poetry, música del Istmo, rock, hip hop, electrónica.
-- Reconocimiento / Recognition: seleccionado para la décima edición de "El Aleph. Festival de Arte y Ciencia" de la UNAM (2026, tema "Nuevas narrativas": inteligencia artificial, crisis climática y desinformación), rubro Multidisciplina, sesión "Bolero Techno y Bestiario marino: literatura electrónica", 16 de mayo de 2026, Ciudad Universitaria, Ciudad de México / selected for the tenth edition of UNAM's El Aleph Festival of Art and Science (2026, theme "New Narratives"), Multidiscipline category, May 16, 2026, Mexico City. https://sintesis.culturaunam.mx/events/bolero-techno-y-bestiario-marino-literatura-electr%C3%B3nica
-- Herramientas / Tools: Suno (producción musical); CapCut (edición de los videos); video de stock gratuito de Pexels (imagen de los videos y fondo del sitio); Claude (apoyo en el desarrollo del sitio web); tipografía Montserrat (SIL Open Font License); YouTube y GitHub Pages (publicación). / Suno (music production); CapCut (video editing); free Pexels stock footage (video imagery and site background); Claude (help developing the website); Montserrat typeface (SIL Open Font License); YouTube and GitHub Pages (publishing).
-- Licencia / License: CC BY-NC-ND 4.0. Idea, música, videos y sitio © Lidya Cota; poemas © Abraham Truxillo / concept, music, videos, and website © Lidya Cota; poems © Abraham Truxillo.
-- Cómo citar / How to cite: Cota, Lidya, y Abraham Truxillo. 2025–2026. "Bolero Techno" [obra de literatura digital]. Idea, música y dirección: Lidya Cota; poemas: Abraham Truxillo. https://bolerotechno.lidyacota.com/
-- Idioma / Language: español / Spanish.
+- Reconocimiento / Recognition: seleccionada para la décima edición de "El Aleph. Festival de Arte y Ciencia" de la UNAM, cuyo lema "Nuevas narrativas" reflexionó sobre los retos del presente, entre ellos el papel de la inteligencia artificial. Ciudad de México, 2026 / selected for the tenth edition of UNAM's El Aleph Festival of Art and Science, theme "New Narratives", which reflected on the challenges of the present, among them the role of AI. Mexico City, 2026. https://sintesis.culturaunam.mx/events/bolero-techno-y-bestiario-marino-literatura-electr%C3%B3nica
+- Herramientas / Tools: Suno (prompts de IA para la producción musical); CapCut (edición de los videos); video de stock gratuito de Pexels (imagen de los videos y fondo del sitio); Claude (apoyo en el desarrollo del sitio web); tipografía Montserrat (SIL Open Font License); YouTube y GitHub Pages (publicación). / Suno (AI prompts for music production); CapCut (video editing); free Pexels stock footage (video imagery and site background); Claude (help developing the website); Montserrat typeface (SIL Open Font License); YouTube and GitHub Pages (publishing).
+- Licencia / License: CC BY-NC-ND 4.0.
+- Cómo citar / How to cite: Cota, Lidya, y Abraham Truxillo. 2025–2026. "Bolero Techno" [obra de literatura digital]. https://bolerotechno.lidyacota.com/
+- Idioma / Language: español / Spanish (página "About" en inglés / About page in English).
 
 ## Páginas principales / Main pages
 
 - [Portada / Home](https://bolerotechno.lidyacota.com/): hojas de los 27 poemas flotando en 3D sobre un tocadiscos que gira.
 - [Poemas / Poems](https://bolerotechno.lidyacota.com/poemas/): lista de los 27 poemas musicalizados.
-- [Acerca de (español)](https://bolerotechno.lidyacota.com/acerca/): descripción del proyecto, créditos, Festival El Aleph 2026 y otras obras.
-- [About (English)](https://bolerotechno.lidyacota.com/en/): full presentation of the project in English for international readers: context, credits, recognition, and the 27 poems.
+- [Acerca de (español)](https://bolerotechno.lidyacota.com/acerca/): texto de presentación firmado por Lidya Cota y créditos.
+- [About (English)](https://bolerotechno.lidyacota.com/en/): the same statement in English, signed by Lidya Cota, and credits.
 
 ## Poemas / Poems
 
-- [01 "Folk de la pobreza"](https://bolerotechno.lidyacota.com/poemas/folk-de-la-pobreza/): Spoken word with a raspy, hoarse voice over bluesy mexican urban rock instrumentation, live (2:43)
-- [02 "Ropero"](https://bolerotechno.lidyacota.com/poemas/ropero/): Children’s music, Light classical, Waltz, Vaudeville, Cabaret, Toy music, Chamber pop, Vintage theatrical (1:48)
-- [03 "Semblanza"](https://bolerotechno.lidyacota.com/poemas/semblanza/): Liverpool big band, mexican male voice (1:38)
-- [04 "Canción vernal"](https://bolerotechno.lidyacota.com/poemas/cancion-vernal/): Mexican ranchera, Mariachi, Traditional Mexican, Bolero ranchero, Romantic folk, Regional Mexican, nostalgic (2:20)
-- [05 "Madrigal por la TV"](https://bolerotechno.lidyacota.com/poemas/madrigal-por-la-tv/): afro-jazz drill, new orleans trance, mexican male voice (1:14)
-- [06 "Escala"](https://bolerotechno.lidyacota.com/poemas/escala/): anti-folk big band, illbient cumbia (2:09)
-- [07 "Meteorito"](https://bolerotechno.lidyacota.com/poemas/meteorito/): Mexican rock, Punk rock, Comedy rock, Garage rock, Latin rock, Satirical music, Alternative rock (4:11)
-- [08 "9mm"](https://bolerotechno.lidyacota.com/poemas/9mm/): Corridos tumbados, Regional Mexican, Trap corridos, Sierrefo, Latin trap, Urban Mexican, Acoustic street music (3:05)
-- [09 "Good bye"](https://bolerotechno.lidyacota.com/poemas/good-bye/): grunge, Koto Drill And Bass, mexican male voice (2:22)
-- [10 "Lyrics"](https://bolerotechno.lidyacota.com/poemas/lyrics/): Grime Surf Rock, boogie-woogie, swing (2:04)
-- [11 "Cíclope"](https://bolerotechno.lidyacota.com/poemas/ciclope/): Ska punk, Latin ska, Reggae rock, Alternative rock, Argentine rock, Fusion, World music (2:25)
-- [12 "Depa punk"](https://bolerotechno.lidyacota.com/poemas/depa-punk/): Punk rock, British punk, Proto-hardcore, Garage rock, Raw rock, Political punk, 70s rock (1:14)
-- [13 "Arritmia"](https://bolerotechno.lidyacota.com/poemas/arritmia/): algorave, Voice should recite with expressive rhythm (2:02)
-- [14 "Balada de Otto Lilienthal"](https://bolerotechno.lidyacota.com/poemas/balada-de-otto-lilienthal/): Ambient Noise Wall Chanson, theatrical spoken word, female voice (3:55)
-- [15 "Nana del queratocono"](https://bolerotechno.lidyacota.com/poemas/nana-del-queratocono/): harpischord klezmer (3:05)
-- [16 "Luna orquesta"](https://bolerotechno.lidyacota.com/poemas/luna-orquesta/): Mambo, 50s Instrumental Latin, perez-prado orquesta (2:19)
-- [17 "Arte poética"](https://bolerotechno.lidyacota.com/poemas/arte-poetica/): bossa nova, Sitar Blues (2:20)
-- [18 "Bolero techno"](https://bolerotechno.lidyacota.com/poemas/bolero-techno/): Mexican bolero, Latin waltz, Romantic ballad, Traditional Latin, Vintage pop, Lounge bolero, Serenade style (2:07)
-- [19 "Reloj despertador"](https://bolerotechno.lidyacota.com/poemas/reloj-despertador/): Latin alternative, Latin hip hop, Urban fusion, Reggaeton (early work), Latin folk, World music, Protest rap, Experimental pop (2:03)
-- [20 "Limón partido"](https://bolerotechno.lidyacota.com/poemas/limon-partido/): Indie rock, Alternative rock, Synthpop, Post-punk revival, Spanish pop rock, Art rock, Electro indie (2:38)
-- [21 "Barda"](https://bolerotechno.lidyacota.com/poemas/barda/): Slam poetry (1:36)
-- [22 "Alta traición neoliberal"](https://bolerotechno.lidyacota.com/poemas/alta-traicion-neoliberal/): East Coast hip hop, Boom bap, New York rap, Underground rap, Street poetry, Hardcore rap (0:27)
-- [23 "Bacanal"](https://bolerotechno.lidyacota.com/poemas/bacanal/): Salsa dura, Latin salsa, Afro-Caribbean, Tropical music, New York salsa, Urban salsa, 80s Latin dance (2:46)
-- [24 "Réquiem del ahogado"](https://bolerotechno.lidyacota.com/poemas/requiem-del-ahogado/): Isthmus folk music, Zapotec traditional music, dramatic, lament (2:22)
-- [25 "Balada de Peter Pan, el deseoso"](https://bolerotechno.lidyacota.com/poemas/balada-de-peter-pan-el-deseoso/): Urban rap, dark hip hop, ukulele (2:23)
-- [26 "Dub surfing"](https://bolerotechno.lidyacota.com/poemas/dub-surfing/): Dancehall dub, Reggae fusion, Dub poetry, Roots reggae, Female vocal, Sound system style, 80s dancehall, Jamaican dub (3:32)
-- [27 "Hits"](https://bolerotechno.lidyacota.com/poemas/hits/): Latin electropop, Synthpop, Electroclash, 2000s Mexican pop, Dance-punk, Dreamy club pop, Retro electronic, Playful and romantic, Two female voices, Spoken-sung delivery, Sweet and ironic tone, Melodic with flat phrasing, Quirky emotional expression (2:59)
-
-## Otras obras de literatura digital / Other works of electronic literature
-
-- ["Bestiario Marino"](https://bestiariomarino.github.io/bestiariomarino/) (2021), Abraham Truxillo y Lidya Cota: pieza interactiva de poesía visual animada; mención honorífica en el primer Concurso Nacional de Literatura Digital Julio Torri / interactive animated visual poetry; honorable mention, first Julio Torri Digital Literature contest.
-- ["Alfonsina: Trap y Poesía"](https://alfonsinatrapypoesia.lidyacota.com/) (2026), Lidya Cota: homenaje a Alfonsina Storni en trap, reggaetón y dembow / tribute to Alfonsina Storni in trap, reggaeton, and dembow.
+- [01 "Folk de la pobreza"](https://bolerotechno.lidyacota.com/poemas/folk-de-la-pobreza/): prompt de IA / AI prompt: Spoken word with a raspy, hoarse voice over bluesy mexican urban rock instrumentation, live (2:43)
+- [02 "Ropero"](https://bolerotechno.lidyacota.com/poemas/ropero/): prompt de IA / AI prompt: Children’s music, Light classical, Waltz, Vaudeville, Cabaret, Toy music, Chamber pop, Vintage theatrical (1:48)
+- [03 "Semblanza"](https://bolerotechno.lidyacota.com/poemas/semblanza/): prompt de IA / AI prompt: Liverpool big band, mexican male voice (1:38)
+- [04 "Canción vernal"](https://bolerotechno.lidyacota.com/poemas/cancion-vernal/): prompt de IA / AI prompt: Mexican ranchera, Mariachi, Traditional Mexican, Bolero ranchero, Romantic folk, Regional Mexican, nostalgic (2:20)
+- [05 "Madrigal por la TV"](https://bolerotechno.lidyacota.com/poemas/madrigal-por-la-tv/): prompt de IA / AI prompt: afro-jazz drill, new orleans trance, mexican male voice (1:14)
+- [06 "Escala"](https://bolerotechno.lidyacota.com/poemas/escala/): prompt de IA / AI prompt: anti-folk big band, illbient cumbia (2:09)
+- [07 "Meteorito"](https://bolerotechno.lidyacota.com/poemas/meteorito/): prompt de IA / AI prompt: Mexican rock, Punk rock, Comedy rock, Garage rock, Latin rock, Satirical music, Alternative rock (4:11)
+- [08 "9mm"](https://bolerotechno.lidyacota.com/poemas/9mm/): prompt de IA / AI prompt: Corridos tumbados, Regional Mexican, Trap corridos, Sierrefo, Latin trap, Urban Mexican, Acoustic street music (3:05)
+- [09 "Good bye"](https://bolerotechno.lidyacota.com/poemas/good-bye/): prompt de IA / AI prompt: grunge, Koto Drill And Bass, mexican male voice (2:22)
+- [10 "Lyrics"](https://bolerotechno.lidyacota.com/poemas/lyrics/): prompt de IA / AI prompt: Grime Surf Rock, boogie-woogie, swing (2:04)
+- [11 "Cíclope"](https://bolerotechno.lidyacota.com/poemas/ciclope/): prompt de IA / AI prompt: Ska punk, Latin ska, Reggae rock, Alternative rock, Argentine rock, Fusion, World music (2:25)
+- [12 "Depa punk"](https://bolerotechno.lidyacota.com/poemas/depa-punk/): prompt de IA / AI prompt: Punk rock, British punk, Proto-hardcore, Garage rock, Raw rock, Political punk, 70s rock (1:14)
+- [13 "Arritmia"](https://bolerotechno.lidyacota.com/poemas/arritmia/): prompt de IA / AI prompt: algorave, Voice should recite with expressive rhythm (2:02)
+- [14 "Balada de Otto Lilienthal"](https://bolerotechno.lidyacota.com/poemas/balada-de-otto-lilienthal/): prompt de IA / AI prompt: Ambient Noise Wall Chanson, theatrical spoken word, female voice (3:55)
+- [15 "Nana del queratocono"](https://bolerotechno.lidyacota.com/poemas/nana-del-queratocono/): prompt de IA / AI prompt: harpischord klezmer (3:05)
+- [16 "Luna orquesta"](https://bolerotechno.lidyacota.com/poemas/luna-orquesta/): prompt de IA / AI prompt: Mambo, 50s Instrumental Latin, perez-prado orquesta (2:19)
+- [17 "Arte poética"](https://bolerotechno.lidyacota.com/poemas/arte-poetica/): prompt de IA / AI prompt: bossa nova, Sitar Blues (2:20)
+- [18 "Bolero techno"](https://bolerotechno.lidyacota.com/poemas/bolero-techno/): prompt de IA / AI prompt: Mexican bolero, Latin waltz, Romantic ballad, Traditional Latin, Vintage pop, Lounge bolero, Serenade style (2:07)
+- [19 "Reloj despertador"](https://bolerotechno.lidyacota.com/poemas/reloj-despertador/): prompt de IA / AI prompt: Latin alternative, Latin hip hop, Urban fusion, Reggaeton (early work), Latin folk, World music, Protest rap, Experimental pop (2:03)
+- [20 "Limón partido"](https://bolerotechno.lidyacota.com/poemas/limon-partido/): prompt de IA / AI prompt: Indie rock, Alternative rock, Synthpop, Post-punk revival, Spanish pop rock, Art rock, Electro indie (2:38)
+- [21 "Barda"](https://bolerotechno.lidyacota.com/poemas/barda/): prompt de IA / AI prompt: Slam poetry (1:36)
+- [22 "Alta traición neoliberal"](https://bolerotechno.lidyacota.com/poemas/alta-traicion-neoliberal/): prompt de IA / AI prompt: East Coast hip hop, Boom bap, New York rap, Underground rap, Street poetry, Hardcore rap (0:27)
+- [23 "Bacanal"](https://bolerotechno.lidyacota.com/poemas/bacanal/): prompt de IA / AI prompt: Salsa dura, Latin salsa, Afro-Caribbean, Tropical music, New York salsa, Urban salsa, 80s Latin dance (2:46)
+- [24 "Réquiem del ahogado"](https://bolerotechno.lidyacota.com/poemas/requiem-del-ahogado/): prompt de IA / AI prompt: Isthmus folk music, Zapotec traditional music, dramatic, lament (2:22)
+- [25 "Balada de Peter Pan, el deseoso"](https://bolerotechno.lidyacota.com/poemas/balada-de-peter-pan-el-deseoso/): prompt de IA / AI prompt: Urban rap, dark hip hop, ukulele (2:23)
+- [26 "Dub surfing"](https://bolerotechno.lidyacota.com/poemas/dub-surfing/): prompt de IA / AI prompt: Dancehall dub, Reggae fusion, Dub poetry, Roots reggae, Female vocal, Sound system style, 80s dancehall, Jamaican dub (3:32)
+- [27 "Hits"](https://bolerotechno.lidyacota.com/poemas/hits/): prompt de IA / AI prompt: Latin electropop, Synthpop, Electroclash, 2000s Mexican pop, Dance-punk, Dreamy club pop, Retro electronic, Playful and romantic, Two female voices, Spoken-sung delivery, Sweet and ironic tone, Melodic with flat phrasing, Quirky emotional expression (2:59)
 
 ## Optional
 

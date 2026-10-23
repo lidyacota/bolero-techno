@@ -1,22 +1,22 @@
 # Bolero Techno: texto completo / full text
 
-> Obra de literatura digital de Lidya Cota, creadora digital mexicana, que musicaliza con inteligencia artificial 27 poemas del libro "Bolero Techno" del poeta mexicano Abraham Truxillo (Manofalsa, Lima, 2025). La idea, la musicalización, la dirección y el sitio web son de Lidya Cota; los poemas, de Abraham Truxillo. Creada en México (2025–2026) y seleccionada para el Festival El Aleph 2026 de la UNAM.
+> Obra de literatura digital de Lidya Cota, creadora digital mexicana, que musicaliza con inteligencia artificial 27 poemas del libro "Bolero Techno" del poeta mexicano Abraham Truxillo. La idea, la selección de poemas, los prompts de IA, la musicalización, los videos y el sitio web son de Lidya Cota; los poemas, de Abraham Truxillo. Creada en México (2025–2026) y seleccionada para El Aleph. Festival de Arte y Ciencia de la UNAM, 2026.
 >
-> A work of electronic literature by Mexican digital creator Lidya Cota that uses artificial intelligence to set to music 27 poems from the book "Bolero Techno" by Mexican poet Abraham Truxillo (Manofalsa, Lima, 2025). The idea, musicalization, direction, and website are Lidya Cota's; the poems are Abraham Truxillo's. Created in Mexico (2025–2026) and selected for UNAM's El Aleph 2026 Festival.
+> A work of electronic literature by Mexican digital creator Lidya Cota that uses artificial intelligence to set to music 27 poems from the book "Bolero Techno" by Mexican poet Abraham Truxillo. The idea, poem selection, AI prompts, musicalization, videos, and website are Lidya Cota's; the poems are Abraham Truxillo's. Created in Mexico (2025–2026) and selected for UNAM's El Aleph Festival of Art and Science, 2026.
 
-Obra de literatura digital de Lidya Cota sobre los poemas de Abraham Truxillo, del libro "Bolero Techno" (Manofalsa, Lima, 2025), en el orden de la lista de reproducción. Idea, música y dirección: Lidya Cota. Los espacios iniciales de cada verso reproducen las sangrías del libro. Licencia CC BY-NC-ND 4.0: se pueden citar con atribución, sin fines comerciales y sin modificar.
+Obra de literatura digital de Lidya Cota sobre los poemas de Abraham Truxillo, del libro "Bolero Techno", en el orden de la lista de reproducción. Los espacios iniciales de cada verso reproducen las sangrías del libro. Licencia CC BY-NC-ND 4.0: se pueden citar con atribución, sin fines comerciales y sin modificar.
 
-A work of electronic literature by Lidya Cota based on poems by Abraham Truxillo from the book "Bolero Techno" (Manofalsa, Lima, 2025), in playlist order. Concept, music, and direction: Lidya Cota. Leading spaces reproduce the book's indentation. License CC BY-NC-ND 4.0.
+A work of electronic literature by Lidya Cota based on poems by Abraham Truxillo from the book "Bolero Techno", in playlist order. Leading spaces reproduce the book's indentation. License CC BY-NC-ND 4.0.
 
-Cómo citar / How to cite: Cota, Lidya, y Abraham Truxillo. 2025–2026. "Bolero Techno" [obra de literatura digital]. Idea, música y dirección: Lidya Cota; poemas: Abraham Truxillo. https://bolerotechno.lidyacota.com/
+Cómo citar / How to cite: Cota, Lidya, y Abraham Truxillo. 2025–2026. "Bolero Techno" [obra de literatura digital]. https://bolerotechno.lidyacota.com/
 
 ## 01. FOLK DE LA POBREZA
 
 - Página / Page: https://bolerotechno.lidyacota.com/poemas/folk-de-la-pobreza/
 - Video: https://www.youtube.com/watch?v=d7yMrqNODRA
 - Duración / Duration: 2:43
-- Ficha sonora / Sound sheet (prompt): Spoken word with a raspy, hoarse voice over bluesy mexican urban rock instrumentation, live
-- Libro / Book: "Bolero Techno" (Manofalsa, 2025), pág. 9
+- Prompt de IA / AI prompt: Spoken word with a raspy, hoarse voice over bluesy mexican urban rock instrumentation, live
+- Poema / Poem: Abraham Truxillo
 
 ```text
 En ocasiones le acontece la pobreza.
@@ -53,8 +53,8 @@ mira su suerte relumbrar.
 - Página / Page: https://bolerotechno.lidyacota.com/poemas/ropero/
 - Video: https://www.youtube.com/watch?v=3bYEp9BGgcQ
 - Duración / Duration: 1:48
-- Ficha sonora / Sound sheet (prompt): Children’s music, Light classical, Waltz, Vaudeville, Cabaret, Toy music, Chamber pop, Vintage theatrical
-- Libro / Book: "Bolero Techno" (Manofalsa, 2025), pág. 11
+- Prompt de IA / AI prompt: Children’s music, Light classical, Waltz, Vaudeville, Cabaret, Toy music, Chamber pop, Vintage theatrical
+- Poema / Poem: Abraham Truxillo
 
 ```text
 Toma el llavero, abuelita,
@@ -79,8 +79,8 @@ siempre se tasó igual.
 - Página / Page: https://bolerotechno.lidyacota.com/poemas/semblanza/
 - Video: https://www.youtube.com/watch?v=u82BnL5hmQ0
 - Duración / Duration: 1:38
-- Ficha sonora / Sound sheet (prompt): Liverpool big band, mexican male voice
-- Libro / Book: "Bolero Techno" (Manofalsa, 2025), pág. 12
+- Prompt de IA / AI prompt: Liverpool big band, mexican male voice
+- Poema / Poem: Abraham Truxillo
 
 ```text
 Yo soy la portada de mi libro.
@@ -99,8 +99,8 @@ opina que las traigo todas.
 - Página / Page: https://bolerotechno.lidyacota.com/poemas/cancion-vernal/
 - Video: https://www.youtube.com/watch?v=fn1Zt8XvrKc
 - Duración / Duration: 2:20
-- Ficha sonora / Sound sheet (prompt): Mexican ranchera, Mariachi, Traditional Mexican, Bolero ranchero, Romantic folk, Regional Mexican, nostalgic
-- Libro / Book: "Bolero Techno" (Manofalsa, 2025), pág. 13
+- Prompt de IA / AI prompt: Mexican ranchera, Mariachi, Traditional Mexican, Bolero ranchero, Romantic folk, Regional Mexican, nostalgic
+- Poema / Poem: Abraham Truxillo
 
 ```text
 El muerto es muerto y se pudre.
@@ -126,8 +126,8 @@ en la boca de la rana.
 - Página / Page: https://bolerotechno.lidyacota.com/poemas/madrigal-por-la-tv/
 - Video: https://www.youtube.com/watch?v=Mo1ZPhCnlu4
 - Duración / Duration: 1:14
-- Ficha sonora / Sound sheet (prompt): afro-jazz drill, new orleans trance, mexican male voice
-- Libro / Book: "Bolero Techno" (Manofalsa, 2025), pág. 14
+- Prompt de IA / AI prompt: afro-jazz drill, new orleans trance, mexican male voice
+- Poema / Poem: Abraham Truxillo
 
 ```text
 La televisión es mi exnovia de la infancia.
@@ -141,8 +141,8 @@ decía un infame promocional de los 90.
 - Página / Page: https://bolerotechno.lidyacota.com/poemas/escala/
 - Video: https://www.youtube.com/watch?v=2dNshnnikfY
 - Duración / Duration: 2:09
-- Ficha sonora / Sound sheet (prompt): anti-folk big band, illbient cumbia
-- Libro / Book: "Bolero Techno" (Manofalsa, 2025), pág. 15
+- Prompt de IA / AI prompt: anti-folk big band, illbient cumbia
+- Poema / Poem: Abraham Truxillo
 
 ```text
 Ruedo por el papel pautado.
@@ -169,8 +169,8 @@ Like a rolling stone. (bis)
 - Página / Page: https://bolerotechno.lidyacota.com/poemas/meteorito/
 - Video: https://www.youtube.com/watch?v=Hz5LHSrd2D4
 - Duración / Duration: 4:11
-- Ficha sonora / Sound sheet (prompt): Mexican rock, Punk rock, Comedy rock, Garage rock, Latin rock, Satirical music, Alternative rock
-- Libro / Book: "Bolero Techno" (Manofalsa, 2025), págs. 16–17
+- Prompt de IA / AI prompt: Mexican rock, Punk rock, Comedy rock, Garage rock, Latin rock, Satirical music, Alternative rock
+- Poema / Poem: Abraham Truxillo
 
 ```text
 Ayer un meteorito arrasó
@@ -227,8 +227,8 @@ triste danzón de amor.
 - Página / Page: https://bolerotechno.lidyacota.com/poemas/9mm/
 - Video: https://www.youtube.com/watch?v=n7fPMH9OYFU
 - Duración / Duration: 3:05
-- Ficha sonora / Sound sheet (prompt): Corridos tumbados, Regional Mexican, Trap corridos, Sierrefo, Latin trap, Urban Mexican, Acoustic street music
-- Libro / Book: "Bolero Techno" (Manofalsa, 2025), pág. 18
+- Prompt de IA / AI prompt: Corridos tumbados, Regional Mexican, Trap corridos, Sierrefo, Latin trap, Urban Mexican, Acoustic street music
+- Poema / Poem: Abraham Truxillo
 
 ```text
 Todos tenemos un hombre
@@ -254,8 +254,8 @@ todos tenemos.
 - Página / Page: https://bolerotechno.lidyacota.com/poemas/good-bye/
 - Video: https://www.youtube.com/watch?v=B1D6lwy2i-o
 - Duración / Duration: 2:22
-- Ficha sonora / Sound sheet (prompt): grunge, Koto Drill And Bass, mexican male voice
-- Libro / Book: "Bolero Techno" (Manofalsa, 2025), pág. 19
+- Prompt de IA / AI prompt: grunge, Koto Drill And Bass, mexican male voice
+- Poema / Poem: Abraham Truxillo
 
 ```text
 Good bye, panadera, good bye.
@@ -274,8 +274,8 @@ good bye, good bye.
 - Página / Page: https://bolerotechno.lidyacota.com/poemas/lyrics/
 - Video: https://www.youtube.com/watch?v=zXKy-35EYdU
 - Duración / Duration: 2:04
-- Ficha sonora / Sound sheet (prompt): Grime Surf Rock, boogie-woogie, swing
-- Libro / Book: "Bolero Techno" (Manofalsa, 2025), pág. 20
+- Prompt de IA / AI prompt: Grime Surf Rock, boogie-woogie, swing
+- Poema / Poem: Abraham Truxillo
 
 ```text
 Estas letras de mis canciones,
@@ -298,8 +298,8 @@ escribe.
 - Página / Page: https://bolerotechno.lidyacota.com/poemas/ciclope/
 - Video: https://www.youtube.com/watch?v=XnOCZ-JXOjU
 - Duración / Duration: 2:25
-- Ficha sonora / Sound sheet (prompt): Ska punk, Latin ska, Reggae rock, Alternative rock, Argentine rock, Fusion, World music
-- Libro / Book: "Bolero Techno" (Manofalsa, 2025), pág. 21
+- Prompt de IA / AI prompt: Ska punk, Latin ska, Reggae rock, Alternative rock, Argentine rock, Fusion, World music
+- Poema / Poem: Abraham Truxillo
 
 ```text
 Hay mil avispas en el orbe
@@ -337,8 +337,8 @@ para sondear sus cavidades.
 - Página / Page: https://bolerotechno.lidyacota.com/poemas/depa-punk/
 - Video: https://www.youtube.com/watch?v=Dp4PGOO1X70
 - Duración / Duration: 1:14
-- Ficha sonora / Sound sheet (prompt): Punk rock, British punk, Proto-hardcore, Garage rock, Raw rock, Political punk, 70s rock
-- Libro / Book: "Bolero Techno" (Manofalsa, 2025), pág. 23
+- Prompt de IA / AI prompt: Punk rock, British punk, Proto-hardcore, Garage rock, Raw rock, Political punk, 70s rock
+- Poema / Poem: Abraham Truxillo
 
 ```text
 Uno se orinó.
@@ -365,8 +365,8 @@ cuando cuido a mi bebé.
 - Página / Page: https://bolerotechno.lidyacota.com/poemas/arritmia/
 - Video: https://www.youtube.com/watch?v=KKXsHpFGkrA
 - Duración / Duration: 2:02
-- Ficha sonora / Sound sheet (prompt): algorave, Voice should recite with expressive rhythm
-- Libro / Book: "Bolero Techno" (Manofalsa, 2025), pág. 24
+- Prompt de IA / AI prompt: algorave, Voice should recite with expressive rhythm
+- Poema / Poem: Abraham Truxillo
 
 ```text
 Él murió.
@@ -389,8 +389,8 @@ como era.
 - Página / Page: https://bolerotechno.lidyacota.com/poemas/balada-de-otto-lilienthal/
 - Video: https://www.youtube.com/watch?v=u7vaJKdwohk
 - Duración / Duration: 3:55
-- Ficha sonora / Sound sheet (prompt): Ambient Noise Wall Chanson, theatrical spoken word, female voice
-- Libro / Book: "Bolero Techno" (Manofalsa, 2025), págs. 25–26
+- Prompt de IA / AI prompt: Ambient Noise Wall Chanson, theatrical spoken word, female voice
+- Poema / Poem: Abraham Truxillo
 
 ```text
 Hombre pájaro blande sus alas;
@@ -460,8 +460,8 @@ los arroja al cielo.
 - Página / Page: https://bolerotechno.lidyacota.com/poemas/nana-del-queratocono/
 - Video: https://www.youtube.com/watch?v=NfYpGqA1riM
 - Duración / Duration: 3:05
-- Ficha sonora / Sound sheet (prompt): harpischord klezmer
-- Libro / Book: "Bolero Techno" (Manofalsa, 2025), pág. 27
+- Prompt de IA / AI prompt: harpischord klezmer
+- Poema / Poem: Abraham Truxillo
 
 ```text
 Cuando era niño, vivía un conejo en la luna.
@@ -486,8 +486,8 @@ y la acechante claridad.
 - Página / Page: https://bolerotechno.lidyacota.com/poemas/luna-orquesta/
 - Video: https://www.youtube.com/watch?v=LbkAfnC6TVM
 - Duración / Duration: 2:19
-- Ficha sonora / Sound sheet (prompt): Mambo, 50s Instrumental Latin, perez-prado orquesta
-- Libro / Book: "Bolero Techno" (Manofalsa, 2025), pág. 28
+- Prompt de IA / AI prompt: Mambo, 50s Instrumental Latin, perez-prado orquesta
+- Poema / Poem: Abraham Truxillo
 
 ```text
 La orquesta quiere más luna.
@@ -512,8 +512,8 @@ no quiere una luna espía.
 - Página / Page: https://bolerotechno.lidyacota.com/poemas/arte-poetica/
 - Video: https://www.youtube.com/watch?v=hQ51s6czIBk
 - Duración / Duration: 2:20
-- Ficha sonora / Sound sheet (prompt): bossa nova, Sitar Blues
-- Libro / Book: "Bolero Techno" (Manofalsa, 2025), pág. 29
+- Prompt de IA / AI prompt: bossa nova, Sitar Blues
+- Poema / Poem: Abraham Truxillo
 
 ```text
 Salir de noche a encontrarse,
@@ -549,8 +549,8 @@ a quien te encuentre.
 - Página / Page: https://bolerotechno.lidyacota.com/poemas/bolero-techno/
 - Video: https://www.youtube.com/watch?v=4qAMI3cGRBQ
 - Duración / Duration: 2:07
-- Ficha sonora / Sound sheet (prompt): Mexican bolero, Latin waltz, Romantic ballad, Traditional Latin, Vintage pop, Lounge bolero, Serenade style
-- Libro / Book: "Bolero Techno" (Manofalsa, 2025), pág. 30
+- Prompt de IA / AI prompt: Mexican bolero, Latin waltz, Romantic ballad, Traditional Latin, Vintage pop, Lounge bolero, Serenade style
+- Poema / Poem: Abraham Truxillo
 
 ```text
 Cada noche reverbera
@@ -587,8 +587,8 @@ las nereidas.
 - Página / Page: https://bolerotechno.lidyacota.com/poemas/reloj-despertador/
 - Video: https://www.youtube.com/watch?v=zTI0ELk8qyc
 - Duración / Duration: 2:03
-- Ficha sonora / Sound sheet (prompt): Latin alternative, Latin hip hop, Urban fusion, Reggaeton (early work), Latin folk, World music, Protest rap, Experimental pop
-- Libro / Book: "Bolero Techno" (Manofalsa, 2025), pág. 31
+- Prompt de IA / AI prompt: Latin alternative, Latin hip hop, Urban fusion, Reggaeton (early work), Latin folk, World music, Protest rap, Experimental pop
+- Poema / Poem: Abraham Truxillo
 
 ```text
 Calcetazo a cara irremediable,
@@ -620,8 +620,8 @@ robados de Barba Azul.
 - Página / Page: https://bolerotechno.lidyacota.com/poemas/limon-partido/
 - Video: https://www.youtube.com/watch?v=fZdVkruVa4I
 - Duración / Duration: 2:38
-- Ficha sonora / Sound sheet (prompt): Indie rock, Alternative rock, Synthpop, Post-punk revival, Spanish pop rock, Art rock, Electro indie
-- Libro / Book: "Bolero Techno" (Manofalsa, 2025), pág. 32
+- Prompt de IA / AI prompt: Indie rock, Alternative rock, Synthpop, Post-punk revival, Spanish pop rock, Art rock, Electro indie
+- Poema / Poem: Abraham Truxillo
 
 ```text
 Si partimos en dos un limón,
@@ -654,8 +654,8 @@ que nosotros los consumimos partidos.
 - Página / Page: https://bolerotechno.lidyacota.com/poemas/barda/
 - Video: https://www.youtube.com/watch?v=yLyh13mpdao
 - Duración / Duration: 1:36
-- Ficha sonora / Sound sheet (prompt): Slam poetry
-- Libro / Book: "Bolero Techno" (Manofalsa, 2025), pág. 33
+- Prompt de IA / AI prompt: Slam poetry
+- Poema / Poem: Abraham Truxillo
 
 ```text
 ¡Un, dos, tres, por todos mis amigos!
@@ -691,8 +691,8 @@ como Jackie O.
 - Página / Page: https://bolerotechno.lidyacota.com/poemas/alta-traicion-neoliberal/
 - Video: https://www.youtube.com/watch?v=a8oeol9amxk
 - Duración / Duration: 0:27
-- Ficha sonora / Sound sheet (prompt): East Coast hip hop, Boom bap, New York rap, Underground rap, Street poetry, Hardcore rap
-- Libro / Book: "Bolero Techno" (Manofalsa, 2025), pág. 34
+- Prompt de IA / AI prompt: East Coast hip hop, Boom bap, New York rap, Underground rap, Street poetry, Hardcore rap
+- Poema / Poem: Abraham Truxillo
 
 ```text
 No amo mi patria.
@@ -715,8 +715,8 @@ que privatizar.
 - Página / Page: https://bolerotechno.lidyacota.com/poemas/bacanal/
 - Video: https://www.youtube.com/watch?v=aI5hohUm_QY
 - Duración / Duration: 2:46
-- Ficha sonora / Sound sheet (prompt): Salsa dura, Latin salsa, Afro-Caribbean, Tropical music, New York salsa, Urban salsa, 80s Latin dance
-- Libro / Book: "Bolero Techno" (Manofalsa, 2025), pág. 35
+- Prompt de IA / AI prompt: Salsa dura, Latin salsa, Afro-Caribbean, Tropical music, New York salsa, Urban salsa, 80s Latin dance
+- Poema / Poem: Abraham Truxillo
 
 ```text
 Otra vez el alcohol lo abandona a la mañana,
@@ -756,8 +756,8 @@ siempre con suavidad.
 - Página / Page: https://bolerotechno.lidyacota.com/poemas/requiem-del-ahogado/
 - Video: https://www.youtube.com/watch?v=5kOcklsaPrE
 - Duración / Duration: 2:22
-- Ficha sonora / Sound sheet (prompt): Isthmus folk music, Zapotec traditional music, dramatic, lament
-- Libro / Book: "Bolero Techno" (Manofalsa, 2025), pág. 36
+- Prompt de IA / AI prompt: Isthmus folk music, Zapotec traditional music, dramatic, lament
+- Poema / Poem: Abraham Truxillo
 
 ```text
 Qué triste nos miraba la boca del ahogado
@@ -784,8 +784,8 @@ sólo restan dos panales.
 - Página / Page: https://bolerotechno.lidyacota.com/poemas/balada-de-peter-pan-el-deseoso/
 - Video: https://www.youtube.com/watch?v=fBhiRiTTXeI
 - Duración / Duration: 2:23
-- Ficha sonora / Sound sheet (prompt): Urban rap, dark hip hop, ukulele
-- Libro / Book: "Bolero Techno" (Manofalsa, 2025), págs. 38–39
+- Prompt de IA / AI prompt: Urban rap, dark hip hop, ukulele
+- Poema / Poem: Abraham Truxillo
 
 ```text
 Deseoso es aquel que huye de su madre
@@ -834,8 +834,8 @@ Niños perdidos, cantan.
 - Página / Page: https://bolerotechno.lidyacota.com/poemas/dub-surfing/
 - Video: https://www.youtube.com/watch?v=UOF4wdIoTgM
 - Duración / Duration: 3:32
-- Ficha sonora / Sound sheet (prompt): Dancehall dub, Reggae fusion, Dub poetry, Roots reggae, Female vocal, Sound system style, 80s dancehall, Jamaican dub
-- Libro / Book: "Bolero Techno" (Manofalsa, 2025), págs. 40–42
+- Prompt de IA / AI prompt: Dancehall dub, Reggae fusion, Dub poetry, Roots reggae, Female vocal, Sound system style, 80s dancehall, Jamaican dub
+- Poema / Poem: Abraham Truxillo
 
 ```text
 Revuélcanos, ola,
@@ -914,8 +914,8 @@ y mástiles sin tiempo.
 - Página / Page: https://bolerotechno.lidyacota.com/poemas/hits/
 - Video: https://www.youtube.com/watch?v=AQABgAaOMDY
 - Duración / Duration: 2:59
-- Ficha sonora / Sound sheet (prompt): Latin electropop, Synthpop, Electroclash, 2000s Mexican pop, Dance-punk, Dreamy club pop, Retro electronic, Playful and romantic, Two female voices, Spoken-sung delivery, Sweet and ironic tone, Melodic with flat phrasing, Quirky emotional expression
-- Libro / Book: "Bolero Techno" (Manofalsa, 2025), págs. 7–8
+- Prompt de IA / AI prompt: Latin electropop, Synthpop, Electroclash, 2000s Mexican pop, Dance-punk, Dreamy club pop, Retro electronic, Playful and romantic, Two female voices, Spoken-sung delivery, Sweet and ironic tone, Melodic with flat phrasing, Quirky emotional expression
+- Poema / Poem: Abraham Truxillo
 
 ```text
 Bonitas las canciones
