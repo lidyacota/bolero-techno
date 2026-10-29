@@ -38,7 +38,7 @@ Desde 2024 circulan en internet poemas sueltos convertidos en canciones con IA, 
 
 **[Lidya Cota](https://www.lidyacota.com/).** Especialista mexicana en software y tecnologías de la información, con experiencia en innovación tecnológica, inteligencia artificial y aprendizaje automático. Une la programación y el diseño de herramientas digitales con la creación de experiencias interactivas, e impulsa la difusión cultural y la narrativa digital desde una mirada técnica y artística.
 
-**[Abraham Truxillo](https://www.abrahamtruxillo.com/).** Poeta, ensayista y narrador mexicano, nacido en 1983. Licenciado en Letras Hispánicas por la UNAM. Autor de *Postales del ventrílocuo* (2011), *Huracán. Antipoema* (2025), *Bestiario marino* (2025) y *Bolero Techno* (2025).
+**[Abraham Truxillo](https://www.abrahamtruxillo.net/).** Poeta, ensayista y narrador mexicano, nacido en 1983. Licenciado en Letras Hispánicas por la UNAM. Autor de *Postales del ventrílocuo* (2011), *Huracán. Antipoema* (2025), *Bestiario marino* (2025) y *Bolero Techno* (2025).
 
 ## Poemas
 
@@ -126,7 +126,7 @@ Since 2024, individual poems, mostly by classic authors, have been turned into A
 
 **[Lidya Cota](https://www.lidyacota.com/).** Mexican specialist in software and information technology, with experience in technological innovation, artificial intelligence, and machine learning. She brings together programming and the design of digital tools with the creation of interactive experiences, and promotes cultural outreach and digital storytelling from both a technical and an artistic perspective.
 
-**[Abraham Truxillo](https://www.abrahamtruxillo.com/).** Mexican poet, essayist, and fiction writer, born in 1983. He holds a degree in Hispanic Literature from UNAM. Author of *Postales del ventrílocuo* (2011), *Huracán. Antipoema* (2025), *Bestiario marino* (2025), and *Bolero Techno* (2025).
+**[Abraham Truxillo](https://www.abrahamtruxillo.net/).** Mexican poet, essayist, and fiction writer, born in 1983. He holds a degree in Hispanic Literature from UNAM. Author of *Postales del ventrílocuo* (2011), *Huracán. Antipoema* (2025), *Bestiario marino* (2025), and *Bolero Techno* (2025).
 
 **Tools:** Suno (AI prompts for music production); CapCut (video editing); free Pexels stock footage (video imagery and site background); Claude (help developing the website); Montserrat typeface (SIL Open Font License); YouTube and GitHub Pages (publishing).
 
