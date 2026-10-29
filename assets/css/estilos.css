@@ -833,7 +833,6 @@ body.interior { padding-bottom: 86px; }
   font-weight: 300;
   color: var(--crema);
 }
-.texto-largo p.firma::before { content: "— "; }
 .persona h3 { margin-top: 0; }
 .pie .pie-creditos a { letter-spacing: .04em; }
 
@@ -850,7 +849,6 @@ body.interior { padding-bottom: 86px; }
 /* ---- Crédito bajo el prompt de IA ---- */
 .ficha-sonora h3 { margin-top: 0; margin-bottom: 1rem; }
 .ficha-sonora .firma-prompt { margin: -.3rem 0 1.2rem; font-size: .85rem; font-style: italic; font-weight: 300; }
-.ficha-sonora .firma-prompt::before { content: "— "; color: var(--texto-tenue); }
 .ficha-sonora .firma-prompt a { color: var(--crema); text-decoration: none; }
 .ficha-sonora .firma-prompt a:hover { color: var(--luz); }
 .persona h3 { margin-top: .6rem; }
