@@ -15,7 +15,7 @@ El sitio es HTML, CSS y JavaScript puros. No necesita instalar nada ni compilar 
 |---|---|
 | `index.html` | Portada con las hojas flotantes en 3D |
 | `poemas/` | Lista de poemas y una carpeta por poema, con video, poema y ficha sonora |
-| `acerca/` | Página "Acerca de" |
+| `acerca-de/` | Página "Acerca de" |
 | `assets/css/estilos.css` | Todos los estilos y la paleta de colores |
 | `assets/js/portada.js` | Animación 3D de la portada |
 | `assets/js/sitio.js` | Menú en celular y video de YouTube bajo demanda |
@@ -42,7 +42,7 @@ El sitio es HTML, CSS y JavaScript puros. No necesita instalar nada ni compilar 
 2. Abre la carpeta `bolero-techno` en Finder, selecciona **todo su contenido** (no la carpeta en sí, sino lo que está dentro) y arrástralo a la página.
 3. Espera a que suban todos los archivos y da clic en **Commit changes**.
 
-> Revisa que en la raíz del repositorio queden `index.html`, `CNAME` y las carpetas `assets`, `poemas` y `acerca`.
+> Revisa que en la raíz del repositorio queden `index.html`, `CNAME` y las carpetas `assets`, `poemas`, `acerca-de` y `en`, y que ya no exista la carpeta `acerca` (era la ruta anterior).
 
 ### 3. Activar GitHub Pages
 1. En el repositorio, ve a **Settings → Pages**.
@@ -65,7 +65,7 @@ Cuando el DNS se propague (de minutos a unas horas), vuelve a **Settings → Pag
 ---
 
 ## Para hacer cambios después
-- **Textos de "Acerca de":** `acerca/index.html`
+- **Textos de "Acerca de":** `acerca-de/index.html`
 - **Colores:** variables al inicio de `assets/css/estilos.css` (`--salvia`, `--niebla`, `--crema`, `--rojo`…)
 - **Un poema:** `poemas/nombre-del-poema/index.html`
 

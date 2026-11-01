@@ -869,3 +869,7 @@ body.interior { padding-bottom: 86px; }
 .pista-fija { border-top-color: rgba(198, 239, 78, .6); }
 .menu .idioma a { border-color: var(--rojo); }
 .menu .idioma a:hover { background: var(--rojo); color: var(--negro); }
+
+/* ---- Créditos con la fórmula de autoría (nov 2026) ---- */
+.creditos-formula { max-width: 46rem; margin: 0 auto 2.4rem; text-align: center; font-size: clamp(1rem, 1.8vw, 1.15rem); line-height: 1.75; color: var(--crema); }
+.creditos-formula strong { font-weight: 600; color: var(--luz); }

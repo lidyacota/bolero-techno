@@ -28,13 +28,15 @@ Un medicamento puede ser el mismo y llegar al cuerpo por caminos distintos: el p
 
 En octubre de 2026 diseñé y construí este sitio para reunir esta obra de poesía musicalizada. Cada poema aparece completo, con los espacios y las sangrías que Abraham dispuso en la página, junto a su canción y al *prompt* de IA con el que se generó la música. Así, quien visita el sitio puede leer y escuchar los poemas a la vez, en una experiencia poética contemporánea, sensorial y experimental.
 
-Desde 2024 circulan en internet poemas sueltos convertidos en canciones con IA, casi siempre de autores clásicos. En 2025, además, una poeta estadounidense convirtió sus propios poemas en canciones con IA y llegó a las listas de *Billboard*. Hasta donde he podido documentar, *Bolero Techno* es una de las primeras obras que toma un libro de poesía ya publicado, de un autor vivo y con su aval, para musicalizarlo con IA y convertirlo en literatura digital. En 2026 fue seleccionada para la décima edición de [El Aleph. Festival de Arte y Ciencia de la UNAM](https://sintesis.culturaunam.mx/events/bolero-techno-y-bestiario-marino-literatura-electr%C3%B3nica), que, bajo el lema *Nuevas narrativas*, reflexionó sobre los retos del presente, entre ellos el papel de la inteligencia artificial.
+*Bolero Techno* toma un libro de poesía ya publicado, de un autor vivo y con su aval, y lo transforma mediante dirección musical con IA y diseño web en una experiencia de literatura digital. En 2026 fue seleccionada para la décima edición de [El Aleph. Festival de Arte y Ciencia de la UNAM](https://sintesis.culturaunam.mx/events/bolero-techno-y-bestiario-marino-literatura-electr%C3%B3nica), que, bajo el lema *Nuevas narrativas*, reflexionó sobre los retos del presente, entre ellos el papel de la inteligencia artificial.
 
 *Bolero Techno* es un proyecto artístico, literario, musical y digital. Explora la hibridez de formatos y lenguajes y la fusión entre palabra y sonido, y busca nuevas formas de expresión poética en el entorno digital. Pertenece a la literatura electrónica. Llevar un poema a la música es lo que la semiótica llama una *traducción intersemiótica*: el paso de un sistema de signos a otro, de la escritura al sonido. En ese cruce entre poesía y música, la obra se inscribe en la musicalización de poesía y la poesía con IA; en la poesía sonora, la poesía electrónica o electropoesía, la videopoesía y el *spoken word* latino; en la poesía digital, la poesía experimental y la poesía futurista, y en el arte híbrido, el arte digital y la relación entre inteligencia artificial y arte, y entre literatura, tecnología y emoción. Forma parte, también, de la literatura digital mexicana y latinoamericana hecha por mujeres.
 
 *Lidya Cota, Ciudad de México, 2026*
 
 ## Créditos
+
+Concepción y dirección artística, dirección y selección musical mediante IA, diseño y construcción del sitio web: **Lidya Cota**. Poemas: **Abraham Truxillo**, *Bolero Techno* (2025).
 
 **[Lidya Cota](https://www.lidyacota.com/).** Especialista mexicana en software y tecnologías de la información, con experiencia en innovación tecnológica, inteligencia artificial y aprendizaje automático. Une la programación y el diseño de herramientas digitales con la creación de experiencias interactivas, e impulsa la difusión cultural y la narrativa digital desde una mirada técnica y artística.
 
@@ -76,7 +78,7 @@ En cada página: la canción en video, el poema completo y el prompt de IA con e
 
 ## Herramientas y recursos
 
-Suno (prompts de IA para la producción musical); CapCut (edición de los videos); video de stock gratuito de Pexels (imagen de los videos y fondo del sitio); Claude (apoyo en el desarrollo del sitio web); tipografía Montserrat (SIL Open Font License); YouTube y GitHub Pages (publicación).
+Suno (generación de la música y las voces a partir de los prompts de IA escritos por Lidya Cota); CapCut (edición de los videos); video de stock gratuito de Pexels (imagen de los videos y fondo del sitio); Claude (apoyo en el desarrollo del sitio web); tipografía Montserrat (SIL Open Font License); YouTube y GitHub Pages (publicación).
 
 ## Licencia
 
@@ -116,7 +118,7 @@ The same medicine can reach the body by different routes: the powder of a pill o
 
 In October 2026 I designed and built this website to bring together this work of poetry set to music. Each poem appears in full, in its original Spanish, with the spacing and indentation Abraham gave it on the page, next to its song and the AI prompt used to generate the music. That way, visitors can read and listen to the poems at the same time, in a contemporary, sensory, and experimental poetic experience.
 
-Since 2024, individual poems, mostly by classic authors, have been turned into AI-generated songs and shared online. In 2025, an American poet also turned her own poems into songs with AI and reached the *Billboard* charts. As far as I have been able to document, *Bolero Techno* is one of the first works to take a poetry book already in print, by a living author and with his approval, set it to music with AI, and turn it into electronic literature. In 2026 it was selected for the tenth edition of [El Aleph. Festival de Arte y Ciencia at UNAM](https://sintesis.culturaunam.mx/events/bolero-techno-y-bestiario-marino-literatura-electr%C3%B3nica), which, under the theme *New Narratives*, reflected on the challenges of the present, among them the role of artificial intelligence.
+*Bolero Techno* takes a poetry book already in print, by a living author and with his approval, and transforms it, through AI music direction and web design, into an experience of electronic literature. In 2026 it was selected for the tenth edition of [El Aleph. Festival de Arte y Ciencia at UNAM](https://sintesis.culturaunam.mx/events/bolero-techno-y-bestiario-marino-literatura-electr%C3%B3nica), which, under the theme *New Narratives*, reflected on the challenges of the present, among them the role of artificial intelligence.
 
 *Bolero Techno* is an artistic, literary, musical, and digital project. It explores hybrid formats and languages and the fusion of word and sound, and it seeks new forms of poetic expression in the digital environment. It belongs to electronic literature. Bringing a poem into music is what semiotics calls an *intersemiotic translation*: the passage from one sign system to another, from writing to sound. At that crossroads of poetry and music, the work belongs to the musicalization of poetry and AI poetry; to sound poetry, electronic poetry or electropoetry, videopoetry, and Latin American spoken word; to digital poetry, experimental poetry, and futurist poetry; and to hybrid art, digital art, and the relationship between artificial intelligence and art, and between literature, technology, and emotion. It is also part of Mexican and Latin American digital literature made by women.
 
@@ -124,11 +126,13 @@ Since 2024, individual poems, mostly by classic authors, have been turned into A
 
 ### Credits
 
+Concept and artistic direction, music direction and selection using AI, website design and development: **Lidya Cota**. Poems: **Abraham Truxillo**, *Bolero Techno* (2025).
+
 **[Lidya Cota](https://www.lidyacota.com/).** Mexican specialist in software and information technology, with experience in technological innovation, artificial intelligence, and machine learning. She brings together programming and the design of digital tools with the creation of interactive experiences, and promotes cultural outreach and digital storytelling from both a technical and an artistic perspective.
 
 **[Abraham Truxillo](https://www.abrahamtruxillo.net/).** Mexican poet, essayist, and fiction writer, born in 1983. He holds a degree in Hispanic Literature from UNAM. Author of *Postales del ventrílocuo* (2011), *Huracán. Antipoema* (2025), *Bestiario marino* (2025), and *Bolero Techno* (2025).
 
-**Tools:** Suno (AI prompts for music production); CapCut (video editing); free Pexels stock footage (video imagery and site background); Claude (help developing the website); Montserrat typeface (SIL Open Font License); YouTube and GitHub Pages (publishing).
+**Tools:** Suno (generation of the music and vocals from AI prompts written by Lidya Cota); CapCut (video editing); free Pexels stock footage (video imagery and site background); Claude (help developing the website); Montserrat typeface (SIL Open Font License); YouTube and GitHub Pages (publishing).
 
 **License:** © 2025–2026 Lidya Cota and Abraham Truxillo, [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en).
 
